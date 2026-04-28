@@ -316,6 +316,48 @@ See `docs/stitch-prompt.md` for the full design specification.
 
 ---
 
+## Environment Variables
+
+Copy `.env.example` to `.env.local` to configure the project locally. `.env.local` is gitignored — never commit real keys.
+
+| Variable | Required | Where to get it |
+|----------|----------|-----------------|
+| `NEXT_PUBLIC_SITE_URL` | Yes (production) | Your deployed domain, e.g. `https://matchprism.com`. Defaults to `https://matchprism.com` if unset. |
+| `ODDS_API_KEY` | No | Free tier (500 req/month) at [the-odds-api.com](https://the-odds-api.com). Used by `scripts/fetch_live_odds.py`. |
+| `OPENWEATHER_API_KEY` | No | Free tier at [openweathermap.org/api](https://openweathermap.org/api). Used by `scripts/pitch_scanner.py` for live weather data. |
+
+The frontend (`NEXT_PUBLIC_SITE_URL`) is the only variable Vercel needs. The Python pipeline vars are for local data refreshes only.
+
+---
+
+## Deploy to Vercel
+
+MatchPrism is a fully static site (`output: 'export'` in `next.config.ts`). Deploy in four steps:
+
+1. **Connect GitHub repo** — go to [vercel.com/new](https://vercel.com/new), import the `matchprism` repository.
+
+2. **Set environment variable** — in the Vercel project settings → Environment Variables, add:
+   ```
+   NEXT_PUBLIC_SITE_URL = https://matchprism.com
+   ```
+
+3. **Build settings** (Vercel auto-detects these, but verify):
+   - Framework: Next.js
+   - Build command: `npm run build`
+   - Output directory: `out`
+
+4. **Deploy** — Vercel builds and deploys automatically on every push to `main`.
+
+> **Note on data files:** `data/raw/` (497 MB, Cricsheet JSON) and `data/processed/` (90 MB, computed analytics) are **not committed to the repo**. You must run the data pipeline locally before building:
+> ```bash
+> cd scripts && python download_all.py  # downloads from cricsheet.org
+> # then run the process_*.py scripts — see Quick Start above
+> cd .. && npm run build
+> ```
+> Source data is freely available at [cricsheet.org](https://cricsheet.org).
+
+---
+
 ## License
 
 MIT
