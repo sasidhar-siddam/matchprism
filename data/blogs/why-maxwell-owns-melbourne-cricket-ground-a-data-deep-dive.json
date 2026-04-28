@@ -1,0 +1,22 @@
+{
+  "category": "venue_specialist",
+  "player": "GJ Maxwell",
+  "venue": "Melbourne Cricket Ground",
+  "title": "Why Maxwell Owns Melbourne Cricket Ground: A Data Deep-Dive",
+  "summary": "GJ Maxwell averages 39.0 at Melbourne Cricket Ground (SR 154.1) across 51 innings \u2014 earning an A+ venue fit grade.",
+  "body": "## The Melbourne Cricket Ground Connection\n\nSome players just have a ground that feels like home. For GJ Maxwell, that ground is **Melbourne Cricket Ground** in Unknown.\n\n| Metric | At Melbourne | Career |\n|--------|------------|--------|\n| Average | **39.0** | 28.6 |\n| Strike Rate | **154.1** | 155.6 |\n| Innings | 51 | 381 |\n| Runs | 1484 | 9206 |\n| Sixes | 55 | 492 |\n\n\n\n---\n*Based on 51 innings at Melbourne Cricket Ground. Analysis by MatchPrism.*",
+  "dataPoints": {
+    "venueAvg": 39.05,
+    "venueSR": 154.1,
+    "innings": 51,
+    "runs": 1484,
+    "grade": "A+"
+  },
+  "score": 1484,
+  "slug": "why-maxwell-owns-melbourne-cricket-ground-a-data-deep-dive",
+  "playersMentioned": [
+    "GJ Maxwell"
+  ],
+  "generatedAt": "2026-03-28T13:10:10.817261",
+  "previouslyCovered": false
+}

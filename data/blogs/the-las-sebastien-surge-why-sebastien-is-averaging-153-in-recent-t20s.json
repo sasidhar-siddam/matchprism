@@ -1,0 +1,22 @@
+{
+  "category": "breakout",
+  "player": "LAS Sebastien",
+  "title": "The LAS Sebastien Surge: Why Sebastien Is Averaging 153 in Recent T20s",
+  "summary": "LAS Sebastien has seen a 386% jump in batting average over the last 10 innings (153.0 vs career 31.5), with a strike rate of 107.0.",
+  "body": "## The Numbers Don't Lie\n\nLAS Sebastien is in the form of his life. Over the last 10 T20 innings, he's averaging **153.0** at a strike rate of **107.0** \u2014 a 386% improvement over his career average of 31.5.\n\nThis isn't a one-off purple patch. The consistency is what stands out.\n\n## Recent Form Timeline\n\n- **0** (0 SR) vs Jamaica Tallawahs at Daren Sammy National Cricket Stadium, Gros Islet (2015-06-28)\n- **0** (0 SR) vs Guyana Amazon Warriors at Warner Park, Basseterre (2014-08-10)\n- **0** (0 SR) vs Jamaica Tallawahs at Warner Park, Basseterre (2014-08-09)\n- **3** (75 SR) vs Trinidad & Tobago Red Steel at Daren Sammy National Cricket Stadium, Gros Islet (2014-08-02)\n- **33** (85 SR) vs Barbados Tridents at Daren Sammy National Cricket Stadium, Gros Islet (2014-07-31)\n\n## What's Changed?\n\nThe data suggests Sebastien has evolved his game. His strike rate has jumped from 94.0 to 107.0, meaning he's not just surviving longer \u2014 he's scoring faster.\n\n\n## Cross-League Presence\n\nLAS Sebastien has played across CPL. \n\n---\n*Data from 10 T20 innings across 1 leagues. Analysis by MatchPrism.*",
+  "dataPoints": {
+    "careerAvg": 31.5,
+    "recentAvg": 153.0,
+    "avgJump": 385.7,
+    "recentSR": 107.0,
+    "careerSR": 94.0,
+    "srJump": 13.8
+  },
+  "score": 385.7142857142857,
+  "slug": "the-las-sebastien-surge-why-sebastien-is-averaging-153-in-recent-t20s",
+  "playersMentioned": [
+    "LAS Sebastien"
+  ],
+  "generatedAt": "2026-03-28T13:10:10.817210",
+  "previouslyCovered": false
+}

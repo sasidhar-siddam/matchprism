@@ -1,0 +1,19 @@
+{
+  "category": "form_slump",
+  "player": "Usman Patel",
+  "title": "What's Wrong with Patel? The Numbers Behind the Slump",
+  "summary": "Usman Patel's average has dropped from 25.4 to 5.9 in recent innings \u2014 a 20-point decline.",
+  "body": "## The Decline\n\nUsman Patel is going through a rough patch. His recent 10-innings average of **5.9** is a far cry from his career mark of **25.4**.\n\n| Period | Average | Strike Rate |\n|--------|---------|-------------|\n| Career | 25.4 | 130.3 |\n| Last 10 | 5.9 | 89.4 |\n\nThe question facing his team: is this a temporary blip or a deeper problem?\n\n---\n*Analysis by MatchPrism.*",
+  "dataPoints": {
+    "careerAvg": 25.42,
+    "recentAvg": 5.9,
+    "drop": 19.520000000000003
+  },
+  "score": 19.520000000000003,
+  "slug": "whats-wrong-with-patel-the-numbers-behind-the-slump",
+  "playersMentioned": [
+    "Usman Patel"
+  ],
+  "generatedAt": "2026-03-28T13:10:10.817391",
+  "previouslyCovered": false
+}

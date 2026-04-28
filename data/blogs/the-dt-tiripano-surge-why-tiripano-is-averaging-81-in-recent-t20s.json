@@ -1,0 +1,22 @@
+{
+  "category": "breakout",
+  "player": "DT Tiripano",
+  "title": "The DT Tiripano Surge: Why Tiripano Is Averaging 81 in Recent T20s",
+  "summary": "DT Tiripano has seen a 429% jump in batting average over the last 10 innings (80.7 vs career 15.2), with a strike rate of 52.0.",
+  "body": "## The Numbers Don't Lie\n\nDT Tiripano is in the form of his life. Over the last 10 T20 innings, he's averaging **80.7** at a strike rate of **52.0** \u2014 a 429% improvement over his career average of 15.2.\n\nThis isn't a one-off purple patch. The consistency is what stands out.\n\n## Recent Form Timeline\n\n- **11** (73 SR) vs Namibia at Queens Sports Club, Bulawayo (2022-05-24)\n- **0** (0 SR) vs Namibia at Queens Sports Club, Bulawayo (2022-05-21)\n- **18** (86 SR) vs Namibia at Queens Sports Club, Bulawayo (2022-05-19)\n- **0** (0 SR) vs Namibia at Queens Sports Club, Bulawayo (2022-05-17)\n- **0** (0 SR) vs Ireland at Bready Cricket Club, Magheramason, Bready (2021-09-04)\n\n## What's Changed?\n\nThe data suggests Tiripano has evolved his game. His strike rate has jumped from 95.3 to 52.0, meaning he's not just surviving longer \u2014 he's scoring faster.\n\n## Where He Thrives\n\n- **Harare Sports Club**: avg 11.0, SR 78.6 (Grade A)\n\n## Cross-League Presence\n\nDT Tiripano has played across T20I. \n\n---\n*Data from 16 T20 innings across 1 leagues. Analysis by MatchPrism.*",
+  "dataPoints": {
+    "careerAvg": 15.2,
+    "recentAvg": 80.7,
+    "avgJump": 429.0,
+    "recentSR": 52.0,
+    "careerSR": 95.3,
+    "srJump": -45.4
+  },
+  "score": 428.9836065573771,
+  "slug": "the-dt-tiripano-surge-why-tiripano-is-averaging-81-in-recent-t20s",
+  "playersMentioned": [
+    "DT Tiripano"
+  ],
+  "generatedAt": "2026-03-28T13:10:10.817195",
+  "previouslyCovered": false
+}

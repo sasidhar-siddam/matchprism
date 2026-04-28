@@ -1,0 +1,28 @@
+{
+  "category": "matchup_dominance",
+  "player": "PD Salt",
+  "title": "Salt vs Holder: Cricket's Most One-Sided Battle",
+  "summary": "PD Salt has smashed 143 runs off 63 balls against JO Holder (SR 227.0) with only 1 dismissal(s).",
+  "body": "## Head to Head\n\n| | Stat |\n|---|---|\n| Balls | 63 |\n| Runs | 143 |\n| Strike Rate | 227.0 |\n| Dismissals | 1 |\n| Average | 143.0 |\n| Dot Ball % | 22.2% |\n| Fours | 15 |\n| Sixes | 8 |\n| Matches | 9 |\n\n## Why Salt Dominates\n\nAcross 63 deliveries, PD Salt has scored at a strike rate of **227.0** against JO Holder \u2014 well above T20 norms. With only 1 dismissal(s), this is a matchup JO Holder's captain should be trying to avoid.\n\nThe key stat: **22.2% dot balls**. That means the batter is finding gaps on nearly every delivery.\n\n---\n*Ball-by-ball data from 9 T20 matches. Analysis by MatchPrism.*",
+  "dataPoints": {
+    "batter": "PD Salt",
+    "bowler": "JO Holder",
+    "balls": 63,
+    "runs": 143,
+    "dismissals": 1,
+    "average": 143.0,
+    "strikeRate": 227.0,
+    "fours": 15,
+    "sixes": 8,
+    "dotBallPct": 22.2,
+    "matches": 9,
+    "lastPlayed": "2026-02-11"
+  },
+  "score": 14301.0,
+  "slug": "salt-vs-holder-crickets-most-one-sided-battle",
+  "playersMentioned": [
+    "PD Salt"
+  ],
+  "generatedAt": "2026-03-28T13:10:10.817351",
+  "previouslyCovered": false
+}

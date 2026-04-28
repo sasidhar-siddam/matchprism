@@ -1,0 +1,22 @@
+{
+  "category": "venue_specialist",
+  "player": "DA Warner",
+  "venue": "Rajiv Gandhi International Stadium",
+  "title": "Why Warner Owns Rajiv Gandhi International Stadium: A Data Deep-Dive",
+  "summary": "DA Warner averages 64.9 at Rajiv Gandhi International Stadium (SR 160.5) across 32 innings \u2014 earning an A+ venue fit grade.",
+  "body": "## The Rajiv Gandhi International Stadium Connection\n\nSome players just have a ground that feels like home. For DA Warner, that ground is **Rajiv Gandhi International Stadium** in Hyderabad.\n\n| Metric | At Rajiv | Career |\n|--------|------------|--------|\n| Average | **64.9** | 37.3 |\n| Strike Rate | **160.5** | 139.9 |\n| Innings | 32 | 371 |\n| Runs | 1623 | 12097 |\n| Sixes | 72 | 421 |\n\n## Why This Venue Works\n\n- High altitude (542m) means the ball travels further here\n\n\n---\n*Based on 32 innings at Rajiv Gandhi International Stadium. Analysis by MatchPrism.*",
+  "dataPoints": {
+    "venueAvg": 64.92,
+    "venueSR": 160.53,
+    "innings": 32,
+    "runs": 1623,
+    "grade": "A+"
+  },
+  "score": 1623,
+  "slug": "why-warner-owns-rajiv-gandhi-international-stadium-a-data-deep-dive",
+  "playersMentioned": [
+    "DA Warner"
+  ],
+  "generatedAt": "2026-03-28T13:10:10.817255",
+  "previouslyCovered": false
+}

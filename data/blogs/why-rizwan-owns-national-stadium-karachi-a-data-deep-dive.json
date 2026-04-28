@@ -1,0 +1,22 @@
+{
+  "category": "venue_specialist",
+  "player": "Mohammad Rizwan",
+  "venue": "National Stadium, Karachi",
+  "title": "Why Rizwan Owns National Stadium, Karachi: A Data Deep-Dive",
+  "summary": "Mohammad Rizwan averages 64.8 at National Stadium, Karachi (SR 141.7) across 18 innings \u2014 earning an A+ venue fit grade.",
+  "body": "## The National Stadium, Karachi Connection\n\nSome players just have a ground that feels like home. For Mohammad Rizwan, that ground is **National Stadium, Karachi** in Karachi.\n\n| Metric | At National | Career |\n|--------|------------|--------|\n| Average | **64.8** | 43.8 |\n| Strike Rate | **141.7** | 125.5 |\n| Innings | 18 | 206 |\n| Runs | 972 | 7048 |\n| Sixes | 25 | 194 |\n\n## Why This Venue Works\n\n- High-scoring venue (RR 8.72) where his aggressive approach thrives\n\n\n---\n*Based on 18 innings at National Stadium, Karachi. Analysis by MatchPrism.*",
+  "dataPoints": {
+    "venueAvg": 64.8,
+    "venueSR": 141.69,
+    "innings": 18,
+    "runs": 972,
+    "grade": "A+"
+  },
+  "score": 972,
+  "slug": "why-rizwan-owns-national-stadium-karachi-a-data-deep-dive",
+  "playersMentioned": [
+    "Mohammad Rizwan"
+  ],
+  "generatedAt": "2026-03-28T13:10:10.817313",
+  "previouslyCovered": false
+}

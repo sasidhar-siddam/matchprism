@@ -1,0 +1,28 @@
+{
+  "category": "matchup_dominance",
+  "player": "N Rana",
+  "title": "Rana vs Ashwin: Cricket's Most One-Sided Battle",
+  "summary": "N Rana has smashed 141 runs off 71 balls against R Ashwin (SR 198.6) with only 0 dismissal(s).",
+  "body": "## Head to Head\n\n| | Stat |\n|---|---|\n| Balls | 71 |\n| Runs | 141 |\n| Strike Rate | 198.6 |\n| Dismissals | 0 |\n| Average | 141 |\n| Dot Ball % | 19.7% |\n| Fours | 10 |\n| Sixes | 10 |\n| Matches | 9 |\n\n## Why Rana Dominates\n\nAcross 71 deliveries, N Rana has scored at a strike rate of **198.6** against R Ashwin \u2014 well above T20 norms. With only 0 dismissal(s), this is a matchup R Ashwin's captain should be trying to avoid.\n\nThe key stat: **19.7% dot balls**. That means the batter is finding gaps on nearly every delivery.\n\n---\n*Ball-by-ball data from 9 T20 matches. Analysis by MatchPrism.*",
+  "dataPoints": {
+    "batter": "N Rana",
+    "bowler": "R Ashwin",
+    "balls": 71,
+    "runs": 141,
+    "dismissals": 0,
+    "average": 141,
+    "strikeRate": 198.6,
+    "fours": 10,
+    "sixes": 10,
+    "dotBallPct": 19.7,
+    "matches": 9,
+    "lastPlayed": "2025-03-30"
+  },
+  "score": 14100.6,
+  "slug": "rana-vs-ashwin-crickets-most-one-sided-battle",
+  "playersMentioned": [
+    "N Rana"
+  ],
+  "generatedAt": "2026-03-28T13:10:10.817368",
+  "previouslyCovered": false
+}

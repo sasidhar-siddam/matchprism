@@ -1,0 +1,22 @@
+{
+  "category": "breakout",
+  "player": "SB Jakati",
+  "title": "The SB Jakati Surge: Why Jakati Is Averaging 154 in Recent T20s",
+  "summary": "SB Jakati has seen a 452% jump in batting average over the last 10 innings (154.5 vs career 28.0), with a strike rate of 98.0.",
+  "body": "## The Numbers Don't Lie\n\nSB Jakati is in the form of his life. Over the last 10 T20 innings, he's averaging **154.5** at a strike rate of **98.0** \u2014 a 452% improvement over his career average of 28.0.\n\nThis isn't a one-off purple patch. The consistency is what stands out.\n\n## Recent Form Timeline\n\n- **0** (0 SR) vs Rising Pune Supergiant at Saurashtra Cricket Association Stadium (2017-04-14)\n- **0** (0 SR) vs Kolkata Knight Riders at Saurashtra Cricket Association Stadium (2017-04-07)\n- **1** (50 SR) vs Royal Challengers Bangalore at M Chinnaswamy Stadium (2016-05-24)\n- **0** (0 SR) vs Mumbai Indians at Green Park (2016-05-21)\n- **0** (0 SR) vs Kolkata Knight Riders at Green Park (2016-05-19)\n\n## What's Changed?\n\nThe data suggests Jakati has evolved his game. His strike rate has jumped from 96.5 to 98.0, meaning he's not just surviving longer \u2014 he's scoring faster.\n\n\n## Cross-League Presence\n\nSB Jakati has played across IPL. \n\n---\n*Data from 30 T20 innings across 1 leagues. Analysis by MatchPrism.*",
+  "dataPoints": {
+    "careerAvg": 28.0,
+    "recentAvg": 154.5,
+    "avgJump": 451.8,
+    "recentSR": 98.0,
+    "careerSR": 96.5,
+    "srJump": 1.5
+  },
+  "score": 451.78571428571433,
+  "slug": "the-sb-jakati-surge-why-jakati-is-averaging-154-in-recent-t20s",
+  "playersMentioned": [
+    "SB Jakati"
+  ],
+  "generatedAt": "2026-03-28T13:10:10.817142",
+  "previouslyCovered": false
+}

@@ -1,0 +1,17 @@
+node_modules/
+.next/
+out/
+.env
+.env.local
+data/raw/
+data/processed/
+__pycache__/
+*.pyc
+.DS_Store
+.vercel
+stitchcricket*.zip
+stitch_*.zip
+stitch_*_extracted/
+stitchcricket_extracted/
+test-results/
+tsconfig.tsbuildinfo

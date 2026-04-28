@@ -1,0 +1,22 @@
+{
+  "category": "venue_specialist",
+  "player": "MW Short",
+  "venue": "Adelaide Oval",
+  "title": "Why Short Owns Adelaide Oval: A Data Deep-Dive",
+  "summary": "MW Short averages 38.3 at Adelaide Oval (SR 147.5) across 40 innings \u2014 earning an A+ venue fit grade.",
+  "body": "## The Adelaide Oval Connection\n\nSome players just have a ground that feels like home. For MW Short, that ground is **Adelaide Oval** in Unknown.\n\n| Metric | At Adelaide | Career |\n|--------|------------|--------|\n| Average | **38.3** | 28.5 |\n| Strike Rate | **147.5** | 144.9 |\n| Innings | 40 | 138 |\n| Runs | 1378 | 3681 |\n| Sixes | 68 | 169 |\n\n\n\n---\n*Based on 40 innings at Adelaide Oval. Analysis by MatchPrism.*",
+  "dataPoints": {
+    "venueAvg": 38.28,
+    "venueSR": 147.54,
+    "innings": 40,
+    "runs": 1378,
+    "grade": "A+"
+  },
+  "score": 1378,
+  "slug": "why-short-owns-adelaide-oval-a-data-deep-dive",
+  "playersMentioned": [
+    "MW Short"
+  ],
+  "generatedAt": "2026-03-28T13:10:10.817266",
+  "previouslyCovered": false
+}

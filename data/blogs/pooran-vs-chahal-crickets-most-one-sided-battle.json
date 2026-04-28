@@ -1,0 +1,28 @@
+{
+  "category": "matchup_dominance",
+  "player": "N Pooran",
+  "title": "Pooran vs Chahal: Cricket's Most One-Sided Battle",
+  "summary": "N Pooran has smashed 142 runs off 83 balls against YS Chahal (SR 171.1) with only 2 dismissal(s).",
+  "body": "## Head to Head\n\n| | Stat |\n|---|---|\n| Balls | 83 |\n| Runs | 142 |\n| Strike Rate | 171.1 |\n| Dismissals | 2 |\n| Average | 71.0 |\n| Dot Ball % | 27.7% |\n| Fours | 5 |\n| Sixes | 12 |\n| Matches | 14 |\n\n## Why Pooran Dominates\n\nAcross 83 deliveries, N Pooran has scored at a strike rate of **171.1** against YS Chahal \u2014 well above T20 norms. With only 2 dismissal(s), this is a matchup YS Chahal's captain should be trying to avoid.\n\nThe key stat: **27.7% dot balls**. That means the batter is finding gaps on nearly every delivery.\n\n---\n*Ball-by-ball data from 14 T20 matches. Analysis by MatchPrism.*",
+  "dataPoints": {
+    "batter": "N Pooran",
+    "bowler": "YS Chahal",
+    "balls": 83,
+    "runs": 142,
+    "dismissals": 2,
+    "average": 71.0,
+    "strikeRate": 171.1,
+    "fours": 5,
+    "sixes": 12,
+    "dotBallPct": 27.7,
+    "matches": 14,
+    "lastPlayed": "2025-04-01"
+  },
+  "score": 14201.3,
+  "slug": "pooran-vs-chahal-crickets-most-one-sided-battle",
+  "playersMentioned": [
+    "N Pooran"
+  ],
+  "generatedAt": "2026-03-28T13:10:10.817363",
+  "previouslyCovered": false
+}

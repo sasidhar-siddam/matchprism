@@ -1,0 +1,22 @@
+{
+  "category": "venue_specialist",
+  "player": "AM Rahane",
+  "venue": "Sawai Mansingh Stadium",
+  "title": "Why Rahane Owns Sawai Mansingh Stadium: A Data Deep-Dive",
+  "summary": "AM Rahane averages 38.5 at Sawai Mansingh Stadium (SR 122.4) across 35 innings \u2014 earning an A+ venue fit grade.",
+  "body": "## The Sawai Mansingh Stadium Connection\n\nSome players just have a ground that feels like home. For AM Rahane, that ground is **Sawai Mansingh Stadium** in Jaipur.\n\n| Metric | At Sawai | Career |\n|--------|------------|--------|\n| Average | **38.5** | 29.6 |\n| Strike Rate | **122.4** | 124.1 |\n| Innings | 35 | 203 |\n| Runs | 1115 | 5407 |\n| Sixes | 15 | 129 |\n\n\n\n---\n*Based on 35 innings at Sawai Mansingh Stadium. Analysis by MatchPrism.*",
+  "dataPoints": {
+    "venueAvg": 38.45,
+    "venueSR": 122.39,
+    "innings": 35,
+    "runs": 1115,
+    "grade": "A+"
+  },
+  "score": 1115,
+  "slug": "why-rahane-owns-sawai-mansingh-stadium-a-data-deep-dive",
+  "playersMentioned": [
+    "AM Rahane"
+  ],
+  "generatedAt": "2026-03-28T13:10:10.817293",
+  "previouslyCovered": false
+}

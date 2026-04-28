@@ -1,0 +1,22 @@
+{
+  "category": "breakout",
+  "player": "Zohaib Khan",
+  "title": "The Zohaib Khan Surge: Why Khan Is Averaging 65 in Recent T20s",
+  "summary": "Zohaib Khan has seen a 263% jump in batting average over the last 10 innings (65.3 vs career 18.0), with a strike rate of 46.0.",
+  "body": "## The Numbers Don't Lie\n\nZohaib Khan is in the form of his life. Over the last 10 T20 innings, he's averaging **65.3** at a strike rate of **46.0** \u2014 a 263% improvement over his career average of 18.0.\n\nThis isn't a one-off purple patch. The consistency is what stands out.\n\n## Recent Form Timeline\n\n- **0** (0 SR) vs Quetta Gladiators at Sharjah Cricket Stadium (2017-02-15)\n- **0** (0 SR) vs Quetta Gladiators at Dubai International Cricket Stadium (2016-02-16)\n- **0** (0 SR) vs Peshawar Zalmi at Sharjah Cricket Stadium (2016-02-13)\n- **10** (167 SR) vs Karachi Kings at Sharjah Cricket Stadium (2016-02-12)\n- **3** (150 SR) vs Islamabad United at Sharjah Cricket Stadium (2016-02-10)\n\n## What's Changed?\n\nThe data suggests Khan has evolved his game. His strike rate has jumped from 138.5 to 46.0, meaning he's not just surviving longer \u2014 he's scoring faster.\n\n\n## Cross-League Presence\n\nZohaib Khan has played across PSL. \n\n---\n*Data from 8 T20 innings across 1 leagues. Analysis by MatchPrism.*",
+  "dataPoints": {
+    "careerAvg": 18.0,
+    "recentAvg": 65.3,
+    "avgJump": 262.9,
+    "recentSR": 46.0,
+    "careerSR": 138.5,
+    "srJump": -66.8
+  },
+  "score": 262.9444444444444,
+  "slug": "the-zohaib-khan-surge-why-khan-is-averaging-65-in-recent-t20s",
+  "playersMentioned": [
+    "Zohaib Khan"
+  ],
+  "generatedAt": "2026-03-28T13:10:10.817248",
+  "previouslyCovered": false
+}

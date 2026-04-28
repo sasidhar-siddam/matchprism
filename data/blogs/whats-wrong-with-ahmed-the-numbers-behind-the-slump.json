@@ -1,0 +1,19 @@
+{
+  "category": "form_slump",
+  "player": "Fiaz Ahmed",
+  "title": "What's Wrong with Ahmed? The Numbers Behind the Slump",
+  "summary": "Fiaz Ahmed's average has dropped from 32.8 to 12.4 in recent innings \u2014 a 20-point decline.",
+  "body": "## The Decline\n\nFiaz Ahmed is going through a rough patch. His recent 10-innings average of **12.4** is a far cry from his career mark of **32.8**.\n\n| Period | Average | Strike Rate |\n|--------|---------|-------------|\n| Career | 32.8 | 121.7 |\n| Last 10 | 12.4 | 83.2 |\n\nThe question facing his team: is this a temporary blip or a deeper problem?\n\n---\n*Analysis by MatchPrism.*",
+  "dataPoints": {
+    "careerAvg": 32.78,
+    "recentAvg": 12.4,
+    "drop": 20.380000000000003
+  },
+  "score": 20.380000000000003,
+  "slug": "whats-wrong-with-ahmed-the-numbers-behind-the-slump",
+  "playersMentioned": [
+    "Fiaz Ahmed"
+  ],
+  "generatedAt": "2026-03-28T13:10:10.817385",
+  "previouslyCovered": false
+}

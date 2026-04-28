@@ -1,0 +1,22 @@
+{
+  "category": "breakout",
+  "player": "AB Agarkar",
+  "title": "The AB Agarkar Surge: Why Agarkar Is Averaging 76 in Recent T20s",
+  "summary": "AB Agarkar has seen a 334% jump in batting average over the last 10 innings (76.5 vs career 17.6), with a strike rate of 48.5.",
+  "body": "## The Numbers Don't Lie\n\nAB Agarkar is in the form of his life. Over the last 10 T20 innings, he's averaging **76.5** at a strike rate of **48.5** \u2014 a 334% improvement over his career average of 17.6.\n\nThis isn't a one-off purple patch. The consistency is what stands out.\n\n## Recent Form Timeline\n\n- **0** (0 SR) vs Rajasthan Royals at Sawai Mansingh Stadium (2013-05-07)\n- **9** (100 SR) vs Kings XI Punjab at Arun Jaitley Stadium (2013-04-23)\n- **0** (0 SR) vs Mumbai Indians at Arun Jaitley Stadium (2013-04-21)\n- **3** (43 SR) vs Chennai Super Kings at Arun Jaitley Stadium (2013-04-18)\n- **0** (0 SR) vs Rajasthan Royals at Arun Jaitley Stadium (2012-04-29)\n\n## What's Changed?\n\nThe data suggests Agarkar has evolved his game. His strike rate has jumped from 117.6 to 48.5, meaning he's not just surviving longer \u2014 he's scoring faster.\n\n## Where He Thrives\n\n- **Kingsmead**: avg 33.0, SR 100.0 (Grade A)\n\n## Cross-League Presence\n\nAB Agarkar has played across IPL, T20I. \n\n---\n*Data from 30 T20 innings across 2 leagues. Analysis by MatchPrism.*",
+  "dataPoints": {
+    "careerAvg": 17.6,
+    "recentAvg": 76.5,
+    "avgJump": 333.7,
+    "recentSR": 48.5,
+    "careerSR": 117.6,
+    "srJump": -58.8
+  },
+  "score": 333.67346938775506,
+  "slug": "the-ab-agarkar-surge-why-agarkar-is-averaging-76-in-recent-t20s",
+  "playersMentioned": [
+    "AB Agarkar"
+  ],
+  "generatedAt": "2026-03-28T13:10:10.817223",
+  "previouslyCovered": false
+}

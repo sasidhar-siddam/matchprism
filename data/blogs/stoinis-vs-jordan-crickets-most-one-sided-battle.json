@@ -1,0 +1,28 @@
+{
+  "category": "matchup_dominance",
+  "player": "MP Stoinis",
+  "title": "Stoinis vs Jordan: Cricket's Most One-Sided Battle",
+  "summary": "MP Stoinis has smashed 201 runs off 88 balls against CJ Jordan (SR 228.4) with only 2 dismissal(s).",
+  "body": "## Head to Head\n\n| | Stat |\n|---|---|\n| Balls | 88 |\n| Runs | 201 |\n| Strike Rate | 228.4 |\n| Dismissals | 2 |\n| Average | 100.5 |\n| Dot Ball % | 20.5% |\n| Fours | 24 |\n| Sixes | 10 |\n| Matches | 13 |\n\n## Why Stoinis Dominates\n\nAcross 88 deliveries, MP Stoinis has scored at a strike rate of **228.4** against CJ Jordan \u2014 well above T20 norms. With only 2 dismissal(s), this is a matchup CJ Jordan's captain should be trying to avoid.\n\nThe key stat: **20.5% dot balls**. That means the batter is finding gaps on nearly every delivery.\n\n---\n*Ball-by-ball data from 13 T20 matches. Analysis by MatchPrism.*",
+  "dataPoints": {
+    "batter": "MP Stoinis",
+    "bowler": "CJ Jordan",
+    "balls": 88,
+    "runs": 201,
+    "dismissals": 2,
+    "average": 100.5,
+    "strikeRate": 228.4,
+    "fours": 24,
+    "sixes": 10,
+    "dotBallPct": 20.5,
+    "matches": 13,
+    "lastPlayed": "2025-12-18"
+  },
+  "score": 20099.2,
+  "slug": "stoinis-vs-jordan-crickets-most-one-sided-battle",
+  "playersMentioned": [
+    "MP Stoinis"
+  ],
+  "generatedAt": "2026-03-28T13:10:10.817319",
+  "previouslyCovered": false
+}

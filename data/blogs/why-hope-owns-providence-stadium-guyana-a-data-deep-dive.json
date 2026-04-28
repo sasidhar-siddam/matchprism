@@ -1,0 +1,22 @@
+{
+  "category": "venue_specialist",
+  "player": "SD Hope",
+  "venue": "Providence Stadium, Guyana",
+  "title": "Why Hope Owns Providence Stadium, Guyana: A Data Deep-Dive",
+  "summary": "SD Hope averages 41.5 at Providence Stadium, Guyana (SR 138.8) across 28 innings \u2014 earning an A+ venue fit grade.",
+  "body": "## The Providence Stadium, Guyana Connection\n\nSome players just have a ground that feels like home. For SD Hope, that ground is **Providence Stadium, Guyana** in Providence.\n\n| Metric | At Providence | Career |\n|--------|------------|--------|\n| Average | **41.5** | 30.5 |\n| Strike Rate | **138.8** | 130.9 |\n| Innings | 28 | 202 |\n| Runs | 995 | 5455 |\n| Sixes | 46 | 254 |\n\n\n\n---\n*Based on 28 innings at Providence Stadium, Guyana. Analysis by MatchPrism.*",
+  "dataPoints": {
+    "venueAvg": 41.46,
+    "venueSR": 138.77,
+    "innings": 28,
+    "runs": 995,
+    "grade": "A+"
+  },
+  "score": 995,
+  "slug": "why-hope-owns-providence-stadium-guyana-a-data-deep-dive",
+  "playersMentioned": [
+    "SD Hope"
+  ],
+  "generatedAt": "2026-03-28T13:10:10.817302",
+  "previouslyCovered": false
+}

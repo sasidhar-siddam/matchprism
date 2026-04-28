@@ -1,0 +1,22 @@
+{
+  "category": "breakout",
+  "player": "Muktar Ali",
+  "title": "The Muktar Ali Surge: Why Ali Is Averaging 86 in Recent T20s",
+  "summary": "Muktar Ali has seen a 303% jump in batting average over the last 10 innings (86.0 vs career 21.3), with a strike rate of 55.0.",
+  "body": "## The Numbers Don't Lie\n\nMuktar Ali is in the form of his life. Over the last 10 T20 innings, he's averaging **86.0** at a strike rate of **55.0** \u2014 a 303% improvement over his career average of 21.3.\n\nThis isn't a one-off purple patch. The consistency is what stands out.\n\n## Recent Form Timeline\n\n- **7** (70 SR) vs Rangpur Riders at Shere Bangla National Stadium, Mirpur (2023-02-03)\n- **0** (0 SR) vs Fortune Barishal at Sylhet International Cricket Stadium (2023-01-31)\n- **9** (90 SR) vs Comilla Victorians at Shere Bangla National Stadium, Mirpur (2023-01-23)\n- **0** (0 SR) vs Fortune Barishal at Zahur Ahmed Chowdhury Stadium, Chattogram (2023-01-20)\n- **0** (0 SR) vs Comilla Victorians at Zahur Ahmed Chowdhury Stadium, Chattogram (2023-01-19)\n\n## What's Changed?\n\nThe data suggests Ali has evolved his game. His strike rate has jumped from 104.1 to 55.0, meaning he's not just surviving longer \u2014 he's scoring faster.\n\n\n## Cross-League Presence\n\nMuktar Ali has played across BPL, T20I. \n\n---\n*Data from 30 T20 innings across 2 leagues. Analysis by MatchPrism.*",
+  "dataPoints": {
+    "careerAvg": 21.3,
+    "recentAvg": 86.0,
+    "avgJump": 303.2,
+    "recentSR": 55.0,
+    "careerSR": 104.1,
+    "srJump": -47.2
+  },
+  "score": 303.187998124707,
+  "slug": "the-muktar-ali-surge-why-ali-is-averaging-86-in-recent-t20s",
+  "playersMentioned": [
+    "Muktar Ali"
+  ],
+  "generatedAt": "2026-03-28T13:10:10.817229",
+  "previouslyCovered": false
+}

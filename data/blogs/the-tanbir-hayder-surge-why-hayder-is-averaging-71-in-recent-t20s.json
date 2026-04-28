@@ -1,0 +1,22 @@
+{
+  "category": "breakout",
+  "player": "Tanbir Hayder",
+  "title": "The Tanbir Hayder Surge: Why Hayder Is Averaging 71 in Recent T20s",
+  "summary": "Tanbir Hayder has seen a 284% jump in batting average over the last 10 innings (71.0 vs career 18.5), with a strike rate of 46.3.",
+  "body": "## The Numbers Don't Lie\n\nTanbir Hayder is in the form of his life. Over the last 10 T20 innings, he's averaging **71.0** at a strike rate of **46.3** \u2014 a 284% improvement over his career average of 18.5.\n\nThis isn't a one-off purple patch. The consistency is what stands out.\n\n## Recent Form Timeline\n\n- **0** (0 SR) vs Rajshahi Kings at Shere Bangla National Stadium, Mirpur (2017-12-05)\n- **5** (83 SR) vs Sylhet Sixers at Shere Bangla National Stadium, Mirpur (2017-12-03)\n- **13** (108 SR) vs Rajshahi Kings at Zahur Ahmed Chowdhury Stadium, Chittagong (2017-11-29)\n- **0** (0 SR) vs Dhaka Dynamites at Zahur Ahmed Chowdhury Stadium, Chittagong (2017-11-27)\n- **3** (150 SR) vs Rangpur Riders at Zahur Ahmed Chowdhury Stadium, Chittagong (2017-11-25)\n\n## What's Changed?\n\nThe data suggests Hayder has evolved his game. His strike rate has jumped from 115.6 to 46.3, meaning he's not just surviving longer \u2014 he's scoring faster.\n\n## Where He Thrives\n\n- **Zahur Ahmed Chowdhury Stadium, Chittagong**: avg 16.0, SR 114.3 (Grade A)\n\n## Cross-League Presence\n\nTanbir Hayder has played across BPL. \n\n---\n*Data from 11 T20 innings across 1 leagues. Analysis by MatchPrism.*",
+  "dataPoints": {
+    "careerAvg": 18.5,
+    "recentAvg": 71.0,
+    "avgJump": 283.8,
+    "recentSR": 46.3,
+    "careerSR": 115.6,
+    "srJump": -59.9
+  },
+  "score": 283.78378378378375,
+  "slug": "the-tanbir-hayder-surge-why-hayder-is-averaging-71-in-recent-t20s",
+  "playersMentioned": [
+    "Tanbir Hayder"
+  ],
+  "generatedAt": "2026-03-28T13:10:10.817236",
+  "previouslyCovered": false
+}

@@ -1,0 +1,22 @@
+{
+  "category": "breakout",
+  "player": "R Drake",
+  "title": "The R Drake Surge: Why Drake Is Averaging 104 in Recent T20s",
+  "summary": "R Drake has seen a 283% jump in batting average over the last 10 innings (103.5 vs career 27.0), with a strike rate of 60.0.",
+  "body": "## The Numbers Don't Lie\n\nR Drake is in the form of his life. Over the last 10 T20 innings, he's averaging **103.5** at a strike rate of **60.0** \u2014 a 283% improvement over his career average of 27.0.\n\nThis isn't a one-off purple patch. The consistency is what stands out.\n\n## Recent Form Timeline\n\n- **0** (0 SR) vs Cook Islands at Sano International Cricket Ground (2025-05-13)\n- **11** (122 SR) vs Hong Kong at Mission Road Ground, Mong Kok, Hong Kong (2024-02-17)\n- **4** (133 SR) vs China at Mission Road Ground, Mong Kok, Hong Kong (2024-02-16)\n- **7** (88 SR) vs Hong Kong at Mission Road Ground, Mong Kok, Hong Kong (2024-02-15)\n- **0** (0 SR) vs China at Mission Road Ground, Mong Kok, Hong Kong (2024-02-15)\n\n## What's Changed?\n\nThe data suggests Drake has evolved his game. His strike rate has jumped from 90.0 to 60.0, meaning he's not just surviving longer \u2014 he's scoring faster.\n\n## Where He Thrives\n\n- **Amini Park, Port Moresby**: avg 3.0, SR 60.0 (Grade A)\n- **Mission Road Ground, Mong Kok, Hong Kong**: avg 22.0, SR 110.0 (Grade A)\n\n## Cross-League Presence\n\nR Drake has played across T20I. \n\n---\n*Data from 13 T20 innings across 1 leagues. Analysis by MatchPrism.*",
+  "dataPoints": {
+    "careerAvg": 27.0,
+    "recentAvg": 103.5,
+    "avgJump": 283.3,
+    "recentSR": 60.0,
+    "careerSR": 90.0,
+    "srJump": -33.3
+  },
+  "score": 283.33333333333337,
+  "slug": "the-r-drake-surge-why-drake-is-averaging-104-in-recent-t20s",
+  "playersMentioned": [
+    "R Drake"
+  ],
+  "generatedAt": "2026-03-28T13:10:10.817242",
+  "previouslyCovered": false
+}

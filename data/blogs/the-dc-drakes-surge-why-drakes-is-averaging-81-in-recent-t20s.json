@@ -1,0 +1,22 @@
+{
+  "category": "breakout",
+  "player": "DC Drakes",
+  "title": "The DC Drakes Surge: Why Drakes Is Averaging 81 in Recent T20s",
+  "summary": "DC Drakes has seen a 392% jump in batting average over the last 10 innings (81.2 vs career 16.5), with a strike rate of 41.0.",
+  "body": "## The Numbers Don't Lie\n\nDC Drakes is in the form of his life. Over the last 10 T20 innings, he's averaging **81.2** at a strike rate of **41.0** \u2014 a 392% improvement over his career average of 16.5.\n\nThis isn't a one-off purple patch. The consistency is what stands out.\n\n## Recent Form Timeline\n\n- **0** (0 SR) vs Barbados Royals at Kensington Oval, Bridgetown, Barbados (2025-09-11)\n- **1** (100 SR) vs Guyana Amazon Warriors at Providence Stadium, Guyana (2025-09-07)\n- **0** (0 SR) vs St Lucia Kings at Warner Park, Basseterre, St Kitts (2025-08-19)\n- **20** (167 SR) vs Trinbago Knight Riders at Warner Park, Basseterre, St Kitts (2025-08-17)\n- **0** (0 SR) vs San Francisco Unicorns at Central Broward Regional Park Stadium Turf Ground, Lauderhill (2025-07-06)\n\n## What's Changed?\n\nThe data suggests Drakes has evolved his game. His strike rate has jumped from 127.1 to 41.0, meaning he's not just surviving longer \u2014 he's scoring faster.\n\n## Where He Thrives\n\n- **Sharjah Cricket Stadium**: avg 10.0, SR 58.8 (Grade A)\n- **Sheikh Zayed Stadium**: avg 2.0, SR 100.0 (Grade A)\n\n## Cross-League Presence\n\nDC Drakes has played across CPL, ILT20, LPL, MLC, T20I. That exposure to 5 different T20 environments has clearly sharpened his game.\n\n---\n*Data from 30 T20 innings across 5 leagues. Analysis by MatchPrism.*",
+  "dataPoints": {
+    "careerAvg": 16.5,
+    "recentAvg": 81.2,
+    "avgJump": 391.8,
+    "recentSR": 41.0,
+    "careerSR": 127.1,
+    "srJump": -67.7
+  },
+  "score": 391.82808716707024,
+  "slug": "the-dc-drakes-surge-why-drakes-is-averaging-81-in-recent-t20s",
+  "playersMentioned": [
+    "DC Drakes"
+  ],
+  "generatedAt": "2026-03-28T13:10:10.817203",
+  "previouslyCovered": false
+}

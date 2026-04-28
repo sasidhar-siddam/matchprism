@@ -1,0 +1,22 @@
+{
+  "category": "venue_specialist",
+  "player": "Shubman Gill",
+  "venue": "Narendra Modi Stadium",
+  "title": "Why Gill Owns Narendra Modi Stadium: A Data Deep-Dive",
+  "summary": "Shubman Gill averages 58.3 at Narendra Modi Stadium (SR 165.1) across 26 innings \u2014 earning an A+ venue fit grade.",
+  "body": "## The Narendra Modi Stadium Connection\n\nSome players just have a ground that feels like home. For Shubman Gill, that ground is **Narendra Modi Stadium** in Ahmedabad.\n\n| Metric | At Narendra | Career |\n|--------|------------|--------|\n| Average | **58.3** | 36.8 |\n| Strike Rate | **165.1** | 138.5 |\n| Innings | 26 | 149 |\n| Runs | 1283 | 4712 |\n| Sixes | 51 | 145 |\n\n## Why This Venue Works\n\n- High-scoring venue (RR 9.01) where his aggressive approach thrives\n\n\n---\n*Based on 26 innings at Narendra Modi Stadium. Analysis by MatchPrism.*",
+  "dataPoints": {
+    "venueAvg": 58.32,
+    "venueSR": 165.12,
+    "innings": 26,
+    "runs": 1283,
+    "grade": "A+"
+  },
+  "score": 1283,
+  "slug": "why-gill-owns-narendra-modi-stadium-a-data-deep-dive",
+  "playersMentioned": [
+    "Shubman Gill"
+  ],
+  "generatedAt": "2026-03-28T13:10:10.817276",
+  "previouslyCovered": false
+}

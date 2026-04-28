@@ -1,0 +1,22 @@
+{
+  "category": "venue_specialist",
+  "player": "SPD Smith",
+  "venue": "Sydney Cricket Ground",
+  "title": "Why Smith Owns Sydney Cricket Ground: A Data Deep-Dive",
+  "summary": "SPD Smith averages 55.0 at Sydney Cricket Ground (SR 151.6) across 24 innings \u2014 earning an A+ venue fit grade.",
+  "body": "## The Sydney Cricket Ground Connection\n\nSome players just have a ground that feels like home. For SPD Smith, that ground is **Sydney Cricket Ground** in Unknown.\n\n| Metric | At Sydney | Career |\n|--------|------------|--------|\n| Average | **55.0** | 34.6 |\n| Strike Rate | **151.6** | 133.9 |\n| Innings | 24 | 206 |\n| Runs | 990 | 5607 |\n| Sixes | 40 | 176 |\n\n\n\n---\n*Based on 24 innings at Sydney Cricket Ground. Analysis by MatchPrism.*",
+  "dataPoints": {
+    "venueAvg": 55.0,
+    "venueSR": 151.61,
+    "innings": 24,
+    "runs": 990,
+    "grade": "A+"
+  },
+  "score": 990,
+  "slug": "why-smith-owns-sydney-cricket-ground-a-data-deep-dive",
+  "playersMentioned": [
+    "SPD Smith"
+  ],
+  "generatedAt": "2026-03-28T13:10:10.817307",
+  "previouslyCovered": false
+}

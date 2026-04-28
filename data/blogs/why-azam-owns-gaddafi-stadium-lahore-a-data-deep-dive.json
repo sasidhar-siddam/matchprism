@@ -1,0 +1,22 @@
+{
+  "category": "venue_specialist",
+  "player": "Babar Azam",
+  "venue": "Gaddafi Stadium, Lahore",
+  "title": "Why Azam Owns Gaddafi Stadium, Lahore: A Data Deep-Dive",
+  "summary": "Babar Azam averages 54.0 at Gaddafi Stadium, Lahore (SR 137.8) across 29 innings \u2014 earning an A+ venue fit grade.",
+  "body": "## The Gaddafi Stadium, Lahore Connection\n\nSome players just have a ground that feels like home. For Babar Azam, that ground is **Gaddafi Stadium, Lahore** in Lahore.\n\n| Metric | At Gaddafi | Career |\n|--------|------------|--------|\n| Average | **54.0** | 39.8 |\n| Strike Rate | **137.8** | 126.5 |\n| Innings | 29 | 264 |\n| Runs | 1188 | 9191 |\n| Sixes | 23 | 161 |\n\n## Why This Venue Works\n\n- High-scoring venue (RR 8.64) where his aggressive approach thrives\n\n\n---\n*Based on 29 innings at Gaddafi Stadium, Lahore. Analysis by MatchPrism.*",
+  "dataPoints": {
+    "venueAvg": 54.0,
+    "venueSR": 137.82,
+    "innings": 29,
+    "runs": 1188,
+    "grade": "A+"
+  },
+  "score": 1188,
+  "slug": "why-azam-owns-gaddafi-stadium-lahore-a-data-deep-dive",
+  "playersMentioned": [
+    "Babar Azam"
+  ],
+  "generatedAt": "2026-03-28T13:10:10.817282",
+  "previouslyCovered": false
+}

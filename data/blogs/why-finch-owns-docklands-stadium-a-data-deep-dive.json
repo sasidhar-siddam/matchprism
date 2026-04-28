@@ -1,0 +1,22 @@
+{
+  "category": "venue_specialist",
+  "player": "AJ Finch",
+  "venue": "Docklands Stadium",
+  "title": "Why Finch Owns Docklands Stadium: A Data Deep-Dive",
+  "summary": "AJ Finch averages 41.6 at Docklands Stadium (SR 135.8) across 31 innings \u2014 earning an A+ venue fit grade.",
+  "body": "## The Docklands Stadium Connection\n\nSome players just have a ground that feels like home. For AJ Finch, that ground is **Docklands Stadium** in Melbourne.\n\n| Metric | At Docklands | Career |\n|--------|------------|--------|\n| Average | **41.6** | 31.5 |\n| Strike Rate | **135.8** | 133.7 |\n| Innings | 31 | 303 |\n| Runs | 1122 | 8590 |\n| Sixes | 44 | 324 |\n\n\n\n---\n*Based on 31 innings at Docklands Stadium. Analysis by MatchPrism.*",
+  "dataPoints": {
+    "venueAvg": 41.56,
+    "venueSR": 135.84,
+    "innings": 31,
+    "runs": 1122,
+    "grade": "A+"
+  },
+  "score": 1122,
+  "slug": "why-finch-owns-docklands-stadium-a-data-deep-dive",
+  "playersMentioned": [
+    "AJ Finch"
+  ],
+  "generatedAt": "2026-03-28T13:10:10.817287",
+  "previouslyCovered": false
+}

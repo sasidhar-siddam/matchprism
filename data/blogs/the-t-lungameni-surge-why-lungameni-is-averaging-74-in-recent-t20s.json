@@ -1,0 +1,22 @@
+{
+  "category": "breakout",
+  "player": "T Lungameni",
+  "title": "The T Lungameni Surge: Why Lungameni Is Averaging 74 in Recent T20s",
+  "summary": "T Lungameni has seen a 366% jump in batting average over the last 10 innings (74.5 vs career 16.0), with a strike rate of 48.0.",
+  "body": "## The Numbers Don't Lie\n\nT Lungameni is in the form of his life. Over the last 10 T20 innings, he's averaging **74.5** at a strike rate of **48.0** \u2014 a 366% improvement over his career average of 16.0.\n\nThis isn't a one-off purple patch. The consistency is what stands out.\n\n## Recent Form Timeline\n\n- **0** (0 SR) vs Canada at Namibia Cricket Ground, Windhoek (2025-03-23)\n- **0** (0 SR) vs Canada at Namibia Cricket Ground, Windhoek (2025-03-22)\n- **0** (0 SR) vs Canada at Namibia Cricket Ground, Windhoek (2025-03-19)\n- **2** (100 SR) vs United States of America at Wanderers Cricket Ground, Windhoek (2024-10-05)\n- **0** (0 SR) vs United Arab Emirates at Wanderers Cricket Ground, Windhoek (2024-10-02)\n\n## What's Changed?\n\nThe data suggests Lungameni has evolved his game. His strike rate has jumped from 145.4 to 48.0, meaning he's not just surviving longer \u2014 he's scoring faster.\n\n## Where He Thrives\n\n- **Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)**: avg 12.0, SR 300.0 (Grade A)\n- **United Cricket Club Ground**: avg 2.0, SR 100.0 (Grade A)\n- **Kyambogo Cricket Oval**: avg 0.0, SR 0.0 (Grade A)\n\n## Cross-League Presence\n\nT Lungameni has played across T20I. \n\n---\n*Data from 30 T20 innings across 1 leagues. Analysis by MatchPrism.*",
+  "dataPoints": {
+    "careerAvg": 16.0,
+    "recentAvg": 74.5,
+    "avgJump": 365.6,
+    "recentSR": 48.0,
+    "careerSR": 145.4,
+    "srJump": -67.0
+  },
+  "score": 365.625,
+  "slug": "the-t-lungameni-surge-why-lungameni-is-averaging-74-in-recent-t20s",
+  "playersMentioned": [
+    "T Lungameni"
+  ],
+  "generatedAt": "2026-03-28T13:10:10.817216",
+  "previouslyCovered": false
+}

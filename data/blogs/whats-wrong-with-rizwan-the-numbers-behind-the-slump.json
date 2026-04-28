@@ -1,0 +1,19 @@
+{
+  "category": "form_slump",
+  "player": "Mohammad Rizwan",
+  "title": "What's Wrong with Rizwan? The Numbers Behind the Slump",
+  "summary": "Mohammad Rizwan's average has dropped from 43.8 to 18.7 in recent innings \u2014 a 25-point decline.",
+  "body": "## The Decline\n\nMohammad Rizwan is going through a rough patch. His recent 10-innings average of **18.7** is a far cry from his career mark of **43.8**.\n\n| Period | Average | Strike Rate |\n|--------|---------|-------------|\n| Career | 43.8 | 125.5 |\n| Last 10 | 18.7 | 102.8 |\n\nThe question facing his team: is this a temporary blip or a deeper problem?\n\n---\n*Analysis by MatchPrism.*",
+  "dataPoints": {
+    "careerAvg": 43.78,
+    "recentAvg": 18.7,
+    "drop": 25.080000000000002
+  },
+  "score": 25.080000000000002,
+  "slug": "whats-wrong-with-rizwan-the-numbers-behind-the-slump",
+  "playersMentioned": [
+    "Mohammad Rizwan"
+  ],
+  "generatedAt": "2026-03-28T13:10:10.817374",
+  "previouslyCovered": false
+}
