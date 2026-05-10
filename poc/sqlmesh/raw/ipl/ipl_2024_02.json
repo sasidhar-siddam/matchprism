@@ -1,0 +1,2710 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2024-03-24",
+    "revision": 1
+  },
+  "info": {
+    "match_type": "T20",
+    "balls_per_over": 6,
+    "overs": 20,
+    "season": "2024",
+    "dates": [
+      "2024-03-24"
+    ],
+    "venue": "Wankhede Stadium",
+    "city": "Mumbai",
+    "teams": [
+      "Mumbai Indians",
+      "Kolkata Knight Riders"
+    ],
+    "toss": {
+      "winner": "Mumbai Indians",
+      "decision": "bat"
+    },
+    "outcome": {
+      "winner": "Mumbai Indians",
+      "by": {
+        "runs": 0
+      }
+    }
+  },
+  "innings": [
+    {
+      "team": "Mumbai Indians",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "R Sharma",
+              "bowler": "V Chakaravarthy",
+              "non_striker": "I Kishan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Sharma",
+              "bowler": "V Chakaravarthy",
+              "non_striker": "I Kishan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              },
+              "wickets": [
+                {
+                  "player_out": "R Sharma",
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "S Yadav",
+              "bowler": "V Chakaravarthy",
+              "non_striker": "I Kishan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Kishan",
+              "bowler": "V Chakaravarthy",
+              "non_striker": "S Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Yadav",
+              "bowler": "V Chakaravarthy",
+              "non_striker": "I Kishan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Yadav",
+              "bowler": "V Chakaravarthy",
+              "non_striker": "I Kishan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "I Kishan",
+              "bowler": "S Narine",
+              "non_striker": "S Yadav",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "I Kishan",
+              "bowler": "S Narine",
+              "non_striker": "S Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Kishan",
+              "bowler": "S Narine",
+              "non_striker": "S Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Kishan",
+              "bowler": "S Narine",
+              "non_striker": "S Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Yadav",
+              "bowler": "S Narine",
+              "non_striker": "I Kishan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Kishan",
+              "bowler": "S Narine",
+              "non_striker": "S Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "S Yadav",
+              "bowler": "S Narine",
+              "non_striker": "I Kishan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Kishan",
+              "bowler": "S Narine",
+              "non_striker": "S Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Yadav",
+              "bowler": "S Narine",
+              "non_striker": "I Kishan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Yadav",
+              "bowler": "S Narine",
+              "non_striker": "I Kishan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Yadav",
+              "bowler": "S Narine",
+              "non_striker": "I Kishan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Yadav",
+              "bowler": "S Narine",
+              "non_striker": "I Kishan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "S Yadav",
+              "bowler": "V Chakaravarthy",
+              "non_striker": "I Kishan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "I Kishan",
+              "bowler": "V Chakaravarthy",
+              "non_striker": "S Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Yadav",
+              "bowler": "V Chakaravarthy",
+              "non_striker": "I Kishan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Yadav",
+              "bowler": "V Chakaravarthy",
+              "non_striker": "I Kishan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Yadav",
+              "bowler": "V Chakaravarthy",
+              "non_striker": "I Kishan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Yadav",
+              "bowler": "V Chakaravarthy",
+              "non_striker": "I Kishan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "S Yadav",
+              "bowler": "S Narine",
+              "non_striker": "I Kishan",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              },
+              "extras": {
+                "byes": 1
+              }
+            },
+            {
+              "batter": "I Kishan",
+              "bowler": "S Narine",
+              "non_striker": "S Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "I Kishan",
+              "bowler": "S Narine",
+              "non_striker": "S Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "I Kishan",
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "H Pandya",
+              "bowler": "S Narine",
+              "non_striker": "S Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Yadav",
+              "bowler": "S Narine",
+              "non_striker": "H Pandya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Pandya",
+              "bowler": "S Narine",
+              "non_striker": "S Yadav",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "S Yadav",
+              "bowler": "U Yadav",
+              "non_striker": "H Pandya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Yadav",
+              "bowler": "U Yadav",
+              "non_striker": "H Pandya",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Yadav",
+              "bowler": "U Yadav",
+              "non_striker": "H Pandya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Yadav",
+              "bowler": "U Yadav",
+              "non_striker": "H Pandya",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "S Yadav",
+              "bowler": "U Yadav",
+              "non_striker": "H Pandya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Pandya",
+              "bowler": "U Yadav",
+              "non_striker": "S Yadav",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "S Yadav",
+              "bowler": "S Narine",
+              "non_striker": "H Pandya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Yadav",
+              "bowler": "S Narine",
+              "non_striker": "H Pandya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Pandya",
+              "bowler": "S Narine",
+              "non_striker": "S Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Yadav",
+              "bowler": "S Narine",
+              "non_striker": "H Pandya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Yadav",
+              "bowler": "S Narine",
+              "non_striker": "H Pandya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Yadav",
+              "bowler": "S Narine",
+              "non_striker": "H Pandya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "S Yadav",
+              "bowler": "S Narine",
+              "non_striker": "H Pandya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Yadav",
+              "bowler": "S Narine",
+              "non_striker": "H Pandya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Pandya",
+              "bowler": "S Narine",
+              "non_striker": "S Yadav",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "H Pandya",
+              "bowler": "S Narine",
+              "non_striker": "S Yadav",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "H Pandya",
+              "bowler": "S Narine",
+              "non_striker": "S Yadav",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "H Pandya",
+              "bowler": "S Narine",
+              "non_striker": "S Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "H Pandya",
+              "bowler": "U Yadav",
+              "non_striker": "S Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Pandya",
+              "bowler": "U Yadav",
+              "non_striker": "S Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Pandya",
+              "bowler": "U Yadav",
+              "non_striker": "S Yadav",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "H Pandya",
+              "bowler": "U Yadav",
+              "non_striker": "S Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Yadav",
+              "bowler": "U Yadav",
+              "non_striker": "H Pandya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Yadav",
+              "bowler": "U Yadav",
+              "non_striker": "H Pandya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "S Yadav",
+              "bowler": "U Yadav",
+              "non_striker": "H Pandya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Yadav",
+              "bowler": "U Yadav",
+              "non_striker": "H Pandya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Yadav",
+              "bowler": "U Yadav",
+              "non_striker": "H Pandya",
+              "runs": {
+                "batter": 4,
+                "extras": 1,
+                "total": 5
+              },
+              "extras": {
+                "noballs": 1
+              }
+            },
+            {
+              "batter": "S Yadav",
+              "bowler": "U Yadav",
+              "non_striker": "H Pandya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Yadav",
+              "bowler": "U Yadav",
+              "non_striker": "H Pandya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Yadav",
+              "bowler": "U Yadav",
+              "non_striker": "H Pandya",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "H Pandya",
+              "bowler": "S Narine",
+              "non_striker": "S Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Pandya",
+              "bowler": "S Narine",
+              "non_striker": "S Yadav",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "H Pandya",
+              "bowler": "S Narine",
+              "non_striker": "S Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Pandya",
+              "bowler": "S Narine",
+              "non_striker": "S Yadav",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "H Pandya",
+              "bowler": "S Narine",
+              "non_striker": "S Yadav",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "H Pandya",
+              "bowler": "S Narine",
+              "non_striker": "S Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "H Pandya",
+                  "kind": "stumped"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "J Bumrah",
+              "bowler": "S Narine",
+              "non_striker": "S Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Yadav",
+              "bowler": "S Narine",
+              "non_striker": "J Bumrah",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Bumrah",
+              "bowler": "S Narine",
+              "non_striker": "S Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Bumrah",
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "T Boult",
+              "bowler": "S Narine",
+              "non_striker": "S Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Boult",
+              "bowler": "S Narine",
+              "non_striker": "S Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Yadav",
+              "bowler": "S Narine",
+              "non_striker": "T Boult",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "S Yadav",
+              "bowler": "S Narine",
+              "non_striker": "T Boult",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Yadav",
+              "bowler": "S Narine",
+              "non_striker": "T Boult",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Yadav",
+              "bowler": "S Narine",
+              "non_striker": "T Boult",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Yadav",
+              "bowler": "S Narine",
+              "non_striker": "T Boult",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Boult",
+              "bowler": "S Narine",
+              "non_striker": "S Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Yadav",
+              "bowler": "S Narine",
+              "non_striker": "T Boult",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "S Yadav",
+                  "kind": "lbw"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "S Yadav",
+              "bowler": "S Narine",
+              "non_striker": "T Boult",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Boult",
+              "bowler": "S Narine",
+              "non_striker": "S Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Boult",
+              "bowler": "S Narine",
+              "non_striker": "S Yadav",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "T Boult",
+              "bowler": "S Narine",
+              "non_striker": "S Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Boult",
+              "bowler": "S Narine",
+              "non_striker": "S Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Yadav",
+              "bowler": "S Narine",
+              "non_striker": "T Boult",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              },
+              "extras": {
+                "noballs": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "S Yadav",
+              "bowler": "S Narine",
+              "non_striker": "T Boult",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Yadav",
+              "bowler": "S Narine",
+              "non_striker": "T Boult",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Boult",
+              "bowler": "S Narine",
+              "non_striker": "S Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Boult",
+              "bowler": "S Narine",
+              "non_striker": "S Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Yadav",
+              "bowler": "S Narine",
+              "non_striker": "T Boult",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "S Yadav",
+              "bowler": "S Narine",
+              "non_striker": "T Boult",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "T Boult",
+              "bowler": "V Chakaravarthy",
+              "non_striker": "S Yadav",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "T Boult",
+              "bowler": "V Chakaravarthy",
+              "non_striker": "S Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Boult",
+              "bowler": "V Chakaravarthy",
+              "non_striker": "S Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Yadav",
+              "bowler": "V Chakaravarthy",
+              "non_striker": "T Boult",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Yadav",
+              "bowler": "V Chakaravarthy",
+              "non_striker": "T Boult",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Boult",
+              "bowler": "V Chakaravarthy",
+              "non_striker": "S Yadav",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "S Yadav",
+              "bowler": "V Chakaravarthy",
+              "non_striker": "T Boult",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              },
+              "extras": {
+                "noballs": 1
+              }
+            },
+            {
+              "batter": "T Boult",
+              "bowler": "V Chakaravarthy",
+              "non_striker": "S Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Yadav",
+              "bowler": "V Chakaravarthy",
+              "non_striker": "T Boult",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Boult",
+              "bowler": "V Chakaravarthy",
+              "non_striker": "S Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Boult",
+              "bowler": "V Chakaravarthy",
+              "non_striker": "S Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Yadav",
+              "bowler": "V Chakaravarthy",
+              "non_striker": "T Boult",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "S Yadav",
+              "bowler": "V Chakaravarthy",
+              "non_striker": "T Boult",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Yadav",
+              "bowler": "V Chakaravarthy",
+              "non_striker": "T Boult",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Yadav",
+              "bowler": "V Chakaravarthy",
+              "non_striker": "T Boult",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Yadav",
+              "bowler": "V Chakaravarthy",
+              "non_striker": "T Boult",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Yadav",
+              "bowler": "V Chakaravarthy",
+              "non_striker": "T Boult",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Yadav",
+              "bowler": "V Chakaravarthy",
+              "non_striker": "T Boult",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "S Yadav",
+              "bowler": "S Narine",
+              "non_striker": "T Boult",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Yadav",
+              "bowler": "S Narine",
+              "non_striker": "T Boult",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Yadav",
+              "bowler": "S Narine",
+              "non_striker": "T Boult",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Yadav",
+              "bowler": "S Narine",
+              "non_striker": "T Boult",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Yadav",
+              "bowler": "S Narine",
+              "non_striker": "T Boult",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "S Yadav",
+              "bowler": "S Narine",
+              "non_striker": "T Boult",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "T Boult",
+              "bowler": "S Narine",
+              "non_striker": "S Yadav",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Yadav",
+              "bowler": "S Narine",
+              "non_striker": "T Boult",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Yadav",
+              "bowler": "S Narine",
+              "non_striker": "T Boult",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Boult",
+              "bowler": "S Narine",
+              "non_striker": "S Yadav",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "T Boult",
+              "bowler": "S Narine",
+              "non_striker": "S Yadav",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "T Boult",
+              "bowler": "S Narine",
+              "non_striker": "S Yadav",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "team": "Kolkata Knight Riders",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "S Iyer",
+              "bowler": "J Bumrah",
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Iyer",
+              "bowler": "J Bumrah",
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "S Iyer",
+              "bowler": "J Bumrah",
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Iyer",
+              "bowler": "J Bumrah",
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Iyer",
+              "bowler": "J Bumrah",
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Rana",
+              "bowler": "J Bumrah",
+              "non_striker": "S Iyer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "S Iyer",
+              "bowler": "T Boult",
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Rana",
+              "bowler": "T Boult",
+              "non_striker": "S Iyer",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "N Rana",
+              "bowler": "T Boult",
+              "non_striker": "S Iyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Iyer",
+              "bowler": "T Boult",
+              "non_striker": "N Rana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Rana",
+              "bowler": "T Boult",
+              "non_striker": "S Iyer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Rana",
+              "bowler": "T Boult",
+              "non_striker": "S Iyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "N Rana",
+              "bowler": "H Pandya",
+              "non_striker": "S Iyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "N Rana",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "S Iyer",
+              "bowler": "H Pandya",
+              "non_striker": "A Russell",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "S Iyer",
+              "bowler": "H Pandya",
+              "non_striker": "A Russell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Iyer",
+              "bowler": "H Pandya",
+              "non_striker": "A Russell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Russell",
+              "bowler": "H Pandya",
+              "non_striker": "S Iyer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Russell",
+              "bowler": "H Pandya",
+              "non_striker": "S Iyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "A Russell",
+              "bowler": "J Bumrah",
+              "non_striker": "S Iyer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Russell",
+              "bowler": "J Bumrah",
+              "non_striker": "S Iyer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Iyer",
+              "bowler": "J Bumrah",
+              "non_striker": "A Russell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "S Iyer",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "A Russell",
+              "bowler": "J Bumrah",
+              "non_striker": "S Narine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Russell",
+              "bowler": "J Bumrah",
+              "non_striker": "S Narine",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Russell",
+              "bowler": "J Bumrah",
+              "non_striker": "S Narine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "S Narine",
+              "bowler": "H Pandya",
+              "non_striker": "A Russell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Russell",
+              "bowler": "H Pandya",
+              "non_striker": "S Narine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Russell",
+              "bowler": "H Pandya",
+              "non_striker": "S Narine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Russell",
+              "bowler": "H Pandya",
+              "non_striker": "S Narine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Russell",
+              "bowler": "H Pandya",
+              "non_striker": "S Narine",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Russell",
+              "bowler": "H Pandya",
+              "non_striker": "S Narine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "S Narine",
+              "bowler": "T Boult",
+              "non_striker": "A Russell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Narine",
+              "bowler": "T Boult",
+              "non_striker": "A Russell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Russell",
+              "bowler": "T Boult",
+              "non_striker": "S Narine",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Russell",
+              "bowler": "T Boult",
+              "non_striker": "S Narine",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "A Russell",
+              "bowler": "T Boult",
+              "non_striker": "S Narine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Russell",
+              "bowler": "T Boult",
+              "non_striker": "S Narine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "A Russell",
+              "bowler": "J Bumrah",
+              "non_striker": "S Narine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Narine",
+              "bowler": "J Bumrah",
+              "non_striker": "A Russell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Narine",
+              "bowler": "J Bumrah",
+              "non_striker": "A Russell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Narine",
+              "bowler": "J Bumrah",
+              "non_striker": "A Russell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Russell",
+              "bowler": "J Bumrah",
+              "non_striker": "S Narine",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Russell",
+              "bowler": "J Bumrah",
+              "non_striker": "S Narine",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "S Narine",
+              "bowler": "J Bumrah",
+              "non_striker": "A Russell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Russell",
+              "bowler": "J Bumrah",
+              "non_striker": "S Narine",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Russell",
+              "bowler": "J Bumrah",
+              "non_striker": "S Narine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Russell",
+              "bowler": "J Bumrah",
+              "non_striker": "S Narine",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Russell",
+              "bowler": "J Bumrah",
+              "non_striker": "S Narine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Narine",
+              "bowler": "J Bumrah",
+              "non_striker": "A Russell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "S Narine",
+              "bowler": "H Pandya",
+              "non_striker": "A Russell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Narine",
+              "bowler": "H Pandya",
+              "non_striker": "A Russell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Narine",
+              "bowler": "H Pandya",
+              "non_striker": "A Russell",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Narine",
+              "bowler": "H Pandya",
+              "non_striker": "A Russell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Narine",
+              "bowler": "H Pandya",
+              "non_striker": "A Russell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Narine",
+              "bowler": "H Pandya",
+              "non_striker": "A Russell",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "A Russell",
+              "bowler": "H Pandya",
+              "non_striker": "S Narine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Russell",
+              "bowler": "H Pandya",
+              "non_striker": "S Narine",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Russell",
+              "bowler": "H Pandya",
+              "non_striker": "S Narine",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "S Narine",
+              "bowler": "H Pandya",
+              "non_striker": "A Russell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Russell",
+              "bowler": "H Pandya",
+              "non_striker": "S Narine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Narine",
+              "bowler": "H Pandya",
+              "non_striker": "A Russell",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "A Russell",
+              "bowler": "H Pandya",
+              "non_striker": "S Narine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Russell",
+              "bowler": "H Pandya",
+              "non_striker": "S Narine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Narine",
+              "bowler": "H Pandya",
+              "non_striker": "A Russell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Russell",
+              "bowler": "H Pandya",
+              "non_striker": "S Narine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Narine",
+              "bowler": "H Pandya",
+              "non_striker": "A Russell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Narine",
+              "bowler": "H Pandya",
+              "non_striker": "A Russell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "A Russell",
+              "bowler": "J Bumrah",
+              "non_striker": "S Narine",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Russell",
+              "bowler": "J Bumrah",
+              "non_striker": "S Narine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Russell",
+              "bowler": "J Bumrah",
+              "non_striker": "S Narine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Narine",
+              "bowler": "J Bumrah",
+              "non_striker": "A Russell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Russell",
+              "bowler": "J Bumrah",
+              "non_striker": "S Narine",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "A Russell",
+              "bowler": "J Bumrah",
+              "non_striker": "S Narine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "S Narine",
+              "bowler": "H Pandya",
+              "non_striker": "A Russell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Narine",
+              "bowler": "H Pandya",
+              "non_striker": "A Russell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Narine",
+              "bowler": "H Pandya",
+              "non_striker": "A Russell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Russell",
+              "bowler": "H Pandya",
+              "non_striker": "S Narine",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Russell",
+              "bowler": "H Pandya",
+              "non_striker": "S Narine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Russell",
+              "bowler": "H Pandya",
+              "non_striker": "S Narine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "A Russell",
+              "bowler": "J Bumrah",
+              "non_striker": "S Narine",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Russell",
+              "bowler": "J Bumrah",
+              "non_striker": "S Narine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Narine",
+              "bowler": "J Bumrah",
+              "non_striker": "A Russell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Narine",
+              "bowler": "J Bumrah",
+              "non_striker": "A Russell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Narine",
+              "bowler": "J Bumrah",
+              "non_striker": "A Russell",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "noballs": 1
+              }
+            },
+            {
+              "batter": "S Narine",
+              "bowler": "J Bumrah",
+              "non_striker": "A Russell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "A Russell",
+              "bowler": "H Pandya",
+              "non_striker": "S Narine",
+              "runs": {
+                "batter": 4,
+                "extras": 1,
+                "total": 5
+              },
+              "extras": {
+                "wides": 1
+              }
+            },
+            {
+              "batter": "A Russell",
+              "bowler": "H Pandya",
+              "non_striker": "S Narine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Narine",
+              "bowler": "H Pandya",
+              "non_striker": "A Russell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Narine",
+              "bowler": "H Pandya",
+              "non_striker": "A Russell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Narine",
+              "bowler": "H Pandya",
+              "non_striker": "A Russell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Russell",
+              "bowler": "H Pandya",
+              "non_striker": "S Narine",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              },
+              "extras": {
+                "byes": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "A Russell",
+              "bowler": "T Boult",
+              "non_striker": "S Narine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Russell",
+              "bowler": "T Boult",
+              "non_striker": "S Narine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Russell",
+              "bowler": "T Boult",
+              "non_striker": "S Narine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Russell",
+              "bowler": "T Boult",
+              "non_striker": "S Narine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Narine",
+              "bowler": "T Boult",
+              "non_striker": "A Russell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Russell",
+              "bowler": "T Boult",
+              "non_striker": "S Narine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "A Russell",
+              "bowler": "H Pandya",
+              "non_striker": "S Narine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Narine",
+              "bowler": "H Pandya",
+              "non_striker": "A Russell",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Narine",
+              "bowler": "H Pandya",
+              "non_striker": "A Russell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Narine",
+              "bowler": "H Pandya",
+              "non_striker": "A Russell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Narine",
+              "bowler": "H Pandya",
+              "non_striker": "A Russell",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Narine",
+              "bowler": "H Pandya",
+              "non_striker": "A Russell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "A Russell",
+              "bowler": "J Bumrah",
+              "non_striker": "S Narine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Russell",
+              "bowler": "J Bumrah",
+              "non_striker": "S Narine",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Russell",
+              "bowler": "J Bumrah",
+              "non_striker": "S Narine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Narine",
+              "bowler": "J Bumrah",
+              "non_striker": "A Russell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Narine",
+              "bowler": "J Bumrah",
+              "non_striker": "A Russell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Narine",
+              "bowler": "J Bumrah",
+              "non_striker": "A Russell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "A Russell",
+              "bowler": "J Bumrah",
+              "non_striker": "S Narine",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Russell",
+              "bowler": "J Bumrah",
+              "non_striker": "S Narine",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "A Russell",
+              "bowler": "J Bumrah",
+              "non_striker": "S Narine",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "A Russell",
+              "bowler": "J Bumrah",
+              "non_striker": "S Narine",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Russell",
+              "bowler": "J Bumrah",
+              "non_striker": "S Narine",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Russell",
+              "bowler": "J Bumrah",
+              "non_striker": "S Narine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "S Narine",
+              "bowler": "T Boult",
+              "non_striker": "A Russell",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Narine",
+              "bowler": "T Boult",
+              "non_striker": "A Russell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Russell",
+              "bowler": "T Boult",
+              "non_striker": "S Narine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Narine",
+              "bowler": "T Boult",
+              "non_striker": "A Russell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Narine",
+              "bowler": "T Boult",
+              "non_striker": "A Russell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Russell",
+              "bowler": "T Boult",
+              "non_striker": "S Narine",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "byes": 1
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

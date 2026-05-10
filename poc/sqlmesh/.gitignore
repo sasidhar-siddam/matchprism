@@ -1,0 +1,8 @@
+.venv/
+*.duckdb
+*.duckdb.wal
+.sqlmesh/
+.cache/
+logs/
+__pycache__/
+*.pyc
