@@ -17,8 +17,33 @@ poc/sqlmesh/
 │   ├── stg_deliveries.sql    # Staging: one row per ball (explodes JSON)
 │   ├── venue_stats.sql       # Mart: per-venue aggregates
 │   └── player_batting_daily.sql  # Mart: INCREMENTAL_BY_TIME_RANGE
+├── screenshots/              # UI walkthrough captures
 └── matchprism.duckdb         # The DuckDB file (created by `sqlmesh plan`)
 ```
+
+## What the UI looks like
+
+The browser UI starts with `sqlmesh ui --port 8765`. Note that as of SQLMesh
+0.234 the browser UI prints a deprecation warning at startup — Tobiko is
+consolidating into a VS Code extension. The screenshots below are from the
+deprecated browser UI but the same lineage and plan flows are present in the
+VS Code extension.
+
+**1. Project home with file tree, custom SQL editor, and persistent Plan / Environment / Changes controls (top-right).**
+
+![Home](screenshots/01-home.png)
+
+**2. Open a model file. The SQL editor sits above a Lineage panel showing the upstream graph with column types per node.**
+
+![Model editor with lineage](screenshots/02-model-editor-with-lineage.png)
+
+**3. Column-level lineage — click a single output column and SQLMesh traces it back through every CTE that contributed to it.** The header shows "All: 6 / Active: 6 / CTEs: 4" — only the 4 CTEs that feed `avg_first_innings_score` are highlighted.
+
+![Column-level lineage](screenshots/03-column-level-lineage.png)
+
+**4. The Plan view detects the model change, classifies it as a Breaking Change with No Backfills (data already exists in dev), and offers a Virtual Update — a metadata-only flip of the prod views to point at the new physical tables.**
+
+![Plan workflow](screenshots/04-plan-workflow.png)
 
 ## How to run from scratch
 
