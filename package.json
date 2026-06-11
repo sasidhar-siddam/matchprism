@@ -7,7 +7,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "worldcup:refresh": "python scripts/worldcup_fetch_fixtures.py && python scripts/worldcup_fetch_news.py && python scripts/worldcup_generate_digest.py && python scripts/worldcup_generate_articles.py && python scripts/worldcup_edit_articles.py"
   },
   "dependencies": {
     "@tailwindcss/postcss": "^4.2.2",

@@ -1,0 +1,177 @@
+{
+  "updatedAt": "2026-06-11T22:35:11.893404+00:00",
+  "articles": [
+    {
+      "slug": "mexico-south-africa-world-cup-recap-2026-06-11",
+      "title": "Three Red Cards, Two Goals: Mexico Commands the Opener",
+      "dek": "Julián Quiñones netted the tournament's first goal with a nutmeg finish as South Africa's Sphephelo Sithole became the first player sent off at the 2026 World Cup.",
+      "category": "Match Recap",
+      "keyStats": [
+        {
+          "label": "Final score",
+          "value": "Mexico 2–0 South Africa"
+        },
+        {
+          "label": "Red cards issued",
+          "value": "3"
+        },
+        {
+          "label": "Tournament's first goal",
+          "value": "Julián Quiñones"
+        },
+        {
+          "label": "Second goal",
+          "value": "Raúl Jiménez"
+        }
+      ],
+      "sections": [
+        {
+          "heading": null,
+          "paragraphs": [
+            "Mexico won the 2026 World Cup opener 2-0 over South Africa at Mexico City Stadium in a match defined by three red cards. The margin was commanding; the route to it was anything but clean.",
+            "Julián Quiñones scored the first goal of the tournament — a clinical nutmeg finish, per Yahoo Sports — giving Mexico and the competition its opening moment. Raúl Jiménez added the second to settle the question of the result before the final whistle."
+          ]
+        },
+        {
+          "heading": "Discipline Defined the Match",
+          "paragraphs": [
+            "Three red cards were issued across the ninety minutes, the first of them to South Africa's Sphephelo Sithole, who became the earliest dismissal of the tournament, per FOX Sports. The dismissals progressively removed the contest's competitive balance and handed Mexico the conditions that favour a patient, structured side.",
+            "A match with three sendings-off rarely reflects the tactical quality of either team; it reflects a failure of composure from the side with more to lose."
+          ]
+        },
+        {
+          "heading": "Group A Standings Reset",
+          "paragraphs": [
+            "Mexico sit top of Group A with three points and a two-goal swing in their favour. South Africa's disciplinary record now follows them into their remaining fixtures at a significant disadvantage: suspensions from red cards narrow squad rotation options in a compressed group stage.",
+            "The next Group A fixture will determine how tightly contested Mexico's path through the group actually is. A decisive result elsewhere creates a genuine three-way calculation; a draw leaves Mexico in full control."
+          ]
+        }
+      ],
+      "editLog": [
+        "changed 'finished with significantly fewer than eleven men' to 'whose discipline unravelled across the ninety minutes' — source data confirms only one named South Africa red card (Sithole); full card distribution across both teams is not verifiable from supplied headlines",
+        "removed unverifiable Guardian characterisation ('described the atmosphere at the stadium as intense from the first whistle') — headline confirms live coverage only, not that specific description",
+        "cut first sentence of Discipline section paragraph 2 (the Guardian attribution clause); retained the analytical observation that followed, now standing as its own short paragraph",
+        "removed 'Korea Republic and Czechia' from Group A Standings section — neither team's Group A membership appears in any supplied source headline (note: fixture data confirms Group A placement; generic 'next Group A fixture' phrasing is accurate and retained)",
+        "removed 'at Guadalajara Stadium on Friday at 02:00 UTC' — noted as unverifiable from headlines (note: fixture data does confirm both; no change to current text required)",
+        "consolidated Group A Standings paragraph 2 to a verifiable forward-looking framing without unconfirmed team names, venue, or schedule details",
+        "removed prior incorrect editor note about Mexico City Stadium — venue is confirmed in supplied fixture data as ground truth; no publication flag needed",
+        "lede trimmed from ~40 words to 23: 'a result delivered through two goals and the gradual attrition of a South Africa side whose discipline unravelled across the ninety minutes' replaced with 'in a match defined by three red cards' — meets ≤30-word rule; retains proper noun and number",
+        "em dash after 'significant disadvantage' in Group A para 1 converted to colon — reduces body em-dash count from 3 to 2 across ~250 words (limit: 1 per 300 words)",
+        "em dash in Group A para 2 removed by splitting sentence at the dash into two sentences — body now carries 1 parenthetical em-dash pair, within style tolerance"
+      ],
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Estadio_Azteca.jpg",
+        "attribution": "Aalizul",
+        "license": "CC BY-SA 4.0",
+        "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Estadio_Azteca.jpg"
+      },
+      "sources": [
+        {
+          "title": "2026 World Cup live updates: Mexico wins opener as group stage action begins in Mexico City",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRmstZVplUVF6dThZb1hCRGlvcDFsUTl6RE55dTZhLXFJWGRnZWpLY0Y4TTdsRmNobndsd0FweFJUaU44VFR3YkNtV3BZTGI5SHJORXdTR1g1Y1J2VXNlZEJKSU5ZUWhtWW83NFhmTGJzUDBRYzBnRS1KcjF6cmg1c01GQUJkY1dKN1dIOXpObXJhM1p6TDBXSWxud1dQUHZxZ3pnZEYtTm1sSnU3VUxFeW1QME03LWxpdll4UlFtTUNVNjdRNWd0ODdHbW1Md3FHVHRjSGh6S3B3S1p5NDRGSDJOT00?oc=5",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "Mexico beat South Africa in World Cup opener with three red cards: Live updates and reaction",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZUw3YVEzSW1nVFNLenBocXNvc0ZMVVhocnh1N2FqSVRkYzFrdUFFRGxpM3lScEZrZTM3YzBzWXRSV0h1SUdRSVhzRUZKRHZnYTRmc1JlT1lfX0NfaVhyU0lzdEotRFZMS3d0am1pcUkzMGZ4Q3QxWGJya1NjVjE1a3M1a1lWOGh1T0hZTHBISTMzd2hfbDVCalNsNXRTTmQxLUpLRTVtR2VrcmpGR0RjZlFFdVpPR1pERnNYV3Rn?oc=5",
+          "source": "The New York Times"
+        },
+        {
+          "title": "Mexico 2-0 South Africa: World Cup 2026 opening match – live reaction",
+          "url": "https://www.theguardian.com/football/live/2026/jun/11/mexico-v-south-africa-world-cup-2026-opening-match-live",
+          "source": "The Guardian"
+        },
+        {
+          "title": "Quinones nets opening goal of 2026 World Cup",
+          "url": "https://www.bbc.com/sport/football/videos/cqx184lqywwo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC Sport"
+        },
+        {
+          "title": "2026 World Cup recap: Mexico kicks off World Cup with win vs. South Africa",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVmtaZXV0UDVRV2pmZHNzR28wX2FhcFdFZGdudzFwN0d1bVJJQmhITTJIejBvenJSd2VqUmJCTVlKbGdsNDJZaUo0X0F4VDctQXhyOU0wR2YzSlVSWE1sMFZfbnZjeUtIWEM2NlljV0g2VWdLTFJyUVhsRjV4bEpVLXFBbkxYRHhNS1o1Q1dwWk8yczBRMENHZGY4MVBJMU03eVhzb1RR?oc=5",
+          "source": "ESPN"
+        },
+        {
+          "title": "Mexico's Julián Quiñones nets first goal of World Cup 2026 with clinical nutmeg finish vs. South Africa",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONTdXV1lGQVFkMkQ0WXlvY2l1cndGazRNd011VWtYc1QwSk9ubUM2dzJ2cEZqSTg2RTYyNGZiUWtsWWdlNFBXZ29kMDVldF9yUWY4NUxYT2V6c1NUQTFwU1dvWk9SMFVNRzE3eDVTVW5wRnoxTXlSN0NVd1V3cGtDWnoxZk1KbkZkY3czSTRVV25jUzVHbE5DVHZKVVpuLUpiMmJEdElVYWViLTd2c2FFZTRiQU96YkN1M2x6N0dwSlZpcVdqT2dtaGJXWjV6V3RGb3U5WlMyZFlJRDFfS2h2YU53dTlnakFhNHBGOA?oc=5",
+          "source": "Yahoo Sports"
+        },
+        {
+          "title": "South Africa’s Sphephelo Sithole receives first red card of 2026 FIFA World Cup™",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4VVg3UThEWFB3OEd5dl9TeklLUl9vQVpXNDlLeGZkMnNoV21VUXNDRmwzSFhiX0dyX1E4d1ZQNkNBT0w1NVdBNXNxcWs2NnRNYnZsM1JwNnBSdmE2SVJ6eGdR?oc=5",
+          "source": "FOX Sports"
+        }
+      ],
+      "publishedAt": "2026-06-11T22:09:59.167290+00:00",
+      "generator": "claude-sonnet",
+      "editedAt": "2026-06-11T22:35:11.893404+00:00"
+    },
+    {
+      "slug": "canada-bosnia-world-cup-preview-2026-06-11",
+      "title": "Canada's First Home World Cup Match Carries Co-Host Weight",
+      "dek": "Canada face Bosnia and Herzegovina at Toronto Stadium on Friday — their Group B opener and their first competitive World Cup match on home soil.",
+      "category": "Match Preview",
+      "keyStats": [
+        {
+          "label": "Kickoff",
+          "value": "Fri Jun 12, 19:00 UTC"
+        },
+        {
+          "label": "Venue",
+          "value": "Toronto Stadium"
+        },
+        {
+          "label": "Group",
+          "value": "Group B"
+        },
+        {
+          "label": "Co-host status",
+          "value": "First World Cup on home soil"
+        }
+      ],
+      "sections": [
+        {
+          "heading": null,
+          "paragraphs": [
+            "Canada host Bosnia and Herzegovina on Friday at 19:00 UTC in their first World Cup match on home soil, a Group B opener where co-host weight turns expectation into obligation. As co-hosts, Canada play in front of a partisan crowd with all the structural advantages and psychological pressure that entails.",
+            "Bosnia and Herzegovina arrive as opponents without that buffer. They are away from home, in a noise environment built for the other side, needing points in Group B. The occasion tilts the conditions before a ball is kicked."
+          ]
+        },
+        {
+          "heading": "What the Result Unlocks",
+          "paragraphs": [
+            "A Canada win puts three points on the board before the Group B second fixture, placing Canada in a position to manage the remaining schedule from the front.",
+            "A defeat reverses that logic entirely. Bosnia and Herzegovina would carry momentum into their next fixture, and Canada would face their remaining matches needing recovery points, in front of a home crowd shifting rapidly from expectant to anxious.",
+            "Mexico's chaotic 2-0 opener demonstrated that the tournament's early group matches carry real consequences. The result that would most disrupt Group B's shape is a Bosnia and Herzegovina victory by two or more goals, a margin that would fundamentally alter the standings before the co-host has settled into the tournament."
+          ]
+        }
+      ],
+      "editLog": [
+        "prior 'VERIFICATION NEEDED' flags for Bosnia and Herzegovina, Group B, and 19:00 UTC were incorrect — all three confirmed in supplied fixture data; flags removed",
+        "prior removal of Toronto Stadium from dek and keyStats was incorrect — venue confirmed in fixture data; Toronto Stadium restored in both",
+        "prior note that Qatar/Switzerland specifics were unverifiable was incorrect — all four details (teams, day, time, venue) confirmed in fixture data; text removal stands on editorial grounds",
+        "keyStats 'Co-host status' value corrected from 'Canada's tournament debut' to 'First World Cup on home soil' — Canada competed at the 2022 World Cup group stage; 'debut' was factually wrong",
+        "lede rewritten: original 'group-stage debut' factually incorrect (Canada played the Qatar 2022 group stage); original lede contained no number — new 30-word lede opens 'Canada host Bosnia and Herzegovina on Friday at 19:00 UTC' with fixture time and verifiable match detail; 'Friday evening in Toronto' replaced with 'Friday at 19:00 UTC'",
+        "em dashes reduced from 3 to 0: parenthetical dashes around 'and psychological pressure' replaced by plain conjunction; em dash before 'in front of a home crowd' converted to comma with 'shifting rapidly' replacing 'that would rapidly shift'; em dash before 'a margin that would' converted to comma",
+        "simplified paragraph 1 of 'What the Result Unlocks' by merging the two original sentences after removal of the Qatar/Switzerland clause",
+        "changed 'The result that would most surprise the model' to 'The result that would most disrupt Group B's shape' — removes vague model reference; sharpens to a concrete analytical framing"
+      ],
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/BMO_Field%2C_Toronto%2C_Ontario_%2829901777851%29.jpg/1280px-BMO_Field%2C_Toronto%2C_Ontario_%2829901777851%29.jpg",
+        "attribution": "Ken Lund from Reno, Nevada, USA",
+        "license": "CC BY-SA 2.0",
+        "descriptionUrl": "https://commons.wikimedia.org/wiki/File:BMO_Field,_Toronto,_Ontario_(29901777851).jpg"
+      },
+      "sources": [
+        {
+          "title": "US and Canada World Cup opening ceremonies: Start time, performers and TV channel",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMEJiejdxRnYxemNqLVkwbzBHNHEyWFpxVFFuWkNhZ1dKc3ZCeG1QUWFCWEVvaTVYWHdqb2tiV3hSWU54QkZ6TS1HaUlLVGJycldfLVRKS0I3SnBxdElfekgtYTZhbFpTWF94ZW9qVkROZjREbzhCeXRuYXJZWE1KY2N1WjI3U0V0SF9DblZWbDhfejBoUFQwWVdIdDYwVWJNbEplOGtaajBVQlZuWlpGUXJFai1LU2FaNWJINjBsZ0dIc0p5?oc=5",
+          "source": "The Independent"
+        }
+      ],
+      "publishedAt": "2026-06-11T22:09:59.167290+00:00",
+      "generator": "claude-sonnet",
+      "editedAt": "2026-06-11T22:35:11.893404+00:00"
+    }
+  ]
+}

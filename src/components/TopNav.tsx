@@ -37,6 +37,12 @@ export function TopNav() {
           >
             Value
           </Link>
+          <Link
+            href="/worldcup"
+            className="text-on-surface/60 hover:text-primary transition-colors"
+          >
+            World Cup
+          </Link>
         </nav>
       </div>
       <div className="flex items-center gap-3">

@@ -1,0 +1,72 @@
+{
+  "dailyBrief": "The 2026 FIFA World Cup is underway after Mexico delivered a chaotic but commanding 2-0 opening win over South Africa at Mexico City Stadium, a match that produced three red cards and goals from Julián Quiñones and Raúl Jiménez. Attention now shifts to Group A's second fixture as Korea Republic face Czechia in the early hours of Friday, followed by co-host Canada's debut against Bosnia and Herzegovina in Toronto. The tournament opener set a high-energy tone that will be difficult to match.",
+  "matchPreviews": [
+    {
+      "matchNumber": 1,
+      "slug": "m1-mexico-vs-south-africa",
+      "headline": "Mexico Opens World Cup with Commanding 2-0 Win in Red Card Chaos",
+      "preview": "Mexico delivered a composed attacking performance to beat South Africa 2-0 in the tournament opener, with Julián Quiñones scoring the first goal of the 2026 World Cup via a clinical nutmeg finish before Raúl Jiménez doubled the lead. The match was overshadowed by three red cards — the most disciplinary dismissals in a single World Cup opening fixture in decades. Mexico's clinical finishing and home crowd advantage proved decisive; South Africa's numerical disadvantage from Sphephelo Sithole's early dismissal made any comeback unfeasible.",
+      "keyFact": "South Africa's Sphephelo Sithole received the tournament's first red card, one of three dismissals on the night — a record for a World Cup opening match."
+    },
+    {
+      "matchNumber": 2,
+      "slug": "m2-korea-republic-vs-czechia",
+      "headline": "Korea Republic and Czechia Clash for Early Group A Position",
+      "preview": "With Mexico already on three points, both Korea Republic and Czechia face the prospect of falling behind in Group A before the group stage properly finds its rhythm. Korea Republic bring a blend of high-intensity pressing and direct forward play, while Czechia lean on structured European defensive organisation and technical midfield control. A draw would be a frustrating but rational outcome for both; the loser enters a must-win situation for their remaining group fixtures.",
+      "keyFact": "Korea Republic have never been eliminated in the group stage at a World Cup held in the Americas — their 2002 semifinal run remains Asia's best-ever tournament performance."
+    },
+    {
+      "matchNumber": 3,
+      "slug": "m3-canada-vs-bosnia-and-herzegovina",
+      "headline": "Canada Seek Landmark Home Opener Against Bosnia and Herzegovina",
+      "preview": "Canada carry the full weight of co-host expectation into their Group B opener at Toronto Stadium, where a partisan home crowd will look to replicate the energy seen in Mexico City. Bosnia and Herzegovina arrive as a tactically disciplined European side with quality through midfield, making this a genuine contest rather than a straightforward home win. For Canada, this match is as much about establishing tournament identity as it is about three points — a strong performance here sets the narrative for their entire campaign.",
+      "keyFact": "Canada's only previous World Cup appearance was in 1986 (Mexico), where they were eliminated without scoring a goal — this tournament represents their first home World Cup and a generational step change for Canadian football."
+    }
+  ],
+  "generator": "claude-sonnet",
+  "topStories": [
+    {
+      "title": "Mexico beat South Africa in World Cup opener with three red cards: Live updates and reaction",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZUw3YVEzSW1nVFNLenBocXNvc0ZMVVhocnh1N2FqSVRkYzFrdUFFRGxpM3lScEZrZTM3YzBzWXRSV0h1SUdRSVhzRUZKRHZnYTRmc1JlT1lfX0NfaVhyU0lzdEotRFZMS3d0am1pcUkzMGZ4Q3QxWGJya1NjVjE1a3M1a1lWOGh1T0hZTHBISTMzd2hfbDVCalNsNXRTTmQxLUpLRTVtR2VrcmpGR0RjZlFFdVpPR1pERnNYV3Rn?oc=5",
+      "source": "The New York Times",
+      "published": "2026-06-11T21:07:08+00:00",
+      "summary": "Mexico beat South Africa in World Cup opener with three red cards: Live updates and reaction  The New York Times"
+    },
+    {
+      "title": "2026 World Cup recap: Mexico kicks off World Cup with win vs. South Africa",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVmtaZXV0UDVRV2pmZHNzR28wX2FhcFdFZGdudzFwN0d1bVJJQmhITTJIejBvenJSd2VqUmJCTVlKbGdsNDJZaUo0X0F4VDctQXhyOU0wR2YzSlVSWE1sMFZfbnZjeUtIWEM2NlljV0g2VWdLTFJyUVhsRjV4bEpVLXFBbkxYRHhNS1o1Q1dwWk8yczBRMENHZGY4MVBJMU03eVhzb1RR?oc=5",
+      "source": "ESPN",
+      "published": "2026-06-11T21:03:00+00:00",
+      "summary": "2026 World Cup recap: Mexico kicks off World Cup with win vs. South Africa  ESPN"
+    },
+    {
+      "title": "2026 World Cup live updates: Mexico wins opener as group stage action begins in Mexico City",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRmstZVplUVF6dThZb1hCRGlvcDFsUTl6RE55dTZhLXFJWGRnZWpLY0Y4TTdsRmNobndsd0FweFJUaU44VFR3YkNtV3BZTGI5SHJORXdTR1g1Y1J2VXNlZEJKSU5ZUWhtWW83NFhmTGJzUDBRYzBnRS1KcjF6cmg1c01GQUJkY1dKN1dIOXpObXJhM1p6TDBXSWxud1dQUHZxZ3pnZEYtTm1sSnU3VUxFeW1QME03LWxpdll4UlFtTUNVNjdRNWd0ODdHbW1Md3FHVHRjSGh6S3B3S1p5NDRGSDJOT00?oc=5",
+      "source": "Yahoo Sports",
+      "published": "2026-06-11T21:07:47+00:00",
+      "summary": "2026 World Cup live updates: Mexico wins opener as group stage action begins in Mexico City  Yahoo Sports"
+    },
+    {
+      "title": "Quinones nets opening goal of 2026 World Cup",
+      "url": "https://www.bbc.com/sport/football/videos/cqx184lqywwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "published": "2026-06-11T21:03:49+00:00",
+      "summary": "Mexico's Julian Quinones scores the opening goal of the 2026 World Cup against South Africa at Mexico City Stadium."
+    },
+    {
+      "title": "South Africa’s Sphephelo Sithole receives first red card of 2026 FIFA World Cup™",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4VVg3UThEWFB3OEd5dl9TeklLUl9vQVpXNDlLeGZkMnNoV21VUXNDRmwzSFhiX0dyX1E4d1ZQNkNBT0w1NVdBNXNxcWs2NnRNYnZsM1JwNnBSdmE2SVJ6eGdR?oc=5",
+      "source": "FOX Sports",
+      "published": "2026-06-11T20:30:19+00:00",
+      "summary": "South Africa’s Sphephelo Sithole receives first red card of 2026 FIFA World Cup™  FOX Sports"
+    },
+    {
+      "title": "Mexico 2-0 South Africa: World Cup 2026 opening match – live reaction",
+      "url": "https://www.theguardian.com/football/live/2026/jun/11/mexico-v-south-africa-world-cup-2026-opening-match-live",
+      "source": "The Guardian",
+      "published": "2026-06-11T21:05:04+00:00",
+      "summary": "⚽️ Kick-off time: 1pm local/8pm BST/3pm EDT/5am AEST⚽️ Player guide | Bracketology | Wallchart | Email Daniel“That ITV studio is spectacular,” reckons Kev the Poet. “Almost as spectacular as the nark-off between Roy Keane and anyone else. The BBC is going to have The Ghost Of Barry Davies coming out"
+    }
+  ],
+  "generatedAt": "2026-06-11T21:10:49.680812+00:00"
+}

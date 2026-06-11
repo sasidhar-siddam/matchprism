@@ -4,7 +4,9 @@ out/
 .env
 .env.local
 data/raw/
-data/processed/
+data/processed/*
+# World Cup JSON is small (~150KB) and committed so CI can refresh it on a schedule
+!data/processed/worldcup/
 __pycache__/
 *.pyc
 .DS_Store

@@ -8,7 +8,7 @@ const navItems = [
   { href: "/matches", label: "Matches", icon: "matches" },
   { href: "/value", label: "Value", icon: "value" },
   { href: "/players", label: "Players", icon: "profile" },
-  { href: "/venues", label: "Venues", icon: "insights" },
+  { href: "/worldcup", label: "WC 26", icon: "globe" },
 ] as const;
 
 function NavIcon({ icon, filled }: { icon: string; filled: boolean }) {
@@ -35,6 +35,12 @@ function NavIcon({ icon, filled }: { icon: string; filled: boolean }) {
       return (
         <svg className="w-6 h-6" fill={filled ? "currentColor" : "none"} viewBox="0 0 24 24" stroke="currentColor" strokeWidth={filled ? 0 : 2}>
           <path strokeLinecap="round" strokeLinejoin="round" d="M2.25 18L9 11.25l4.306 4.307a11.95 11.95 0 015.814-5.519l2.74-1.22m0 0l-5.94-2.28m5.94 2.28l-2.28 5.941" />
+        </svg>
+      );
+    case "globe":
+      return (
+        <svg className="w-6 h-6" fill={filled ? "currentColor" : "none"} viewBox="0 0 24 24" stroke="currentColor" strokeWidth={filled ? 0 : 2}>
+          <path strokeLinecap="round" strokeLinejoin="round" d="M12 21a9 9 0 100-18 9 9 0 000 18zm0 0c2.485 0 4.5-4.03 4.5-9S14.485 3 12 3 7.5 7.03 7.5 12s2.015 9 4.5 9zM3.6 9h16.8M3.6 15h16.8" />
         </svg>
       );
     case "profile":
