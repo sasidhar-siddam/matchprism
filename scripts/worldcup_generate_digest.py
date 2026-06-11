@@ -148,9 +148,18 @@ def main():
         print(f"Calling claude -p (model={model}, ~{len(prompt)} chars input, 1 call) ...")
         try:
             digest = call_claude(prompt, model)
+            if not isinstance(digest.get("dailyBrief"), str) or not digest["dailyBrief"].strip():
+                raise ValueError("malformed digest: missing dailyBrief")
+            digest["matchPreviews"] = [
+                p for p in digest.get("matchPreviews", [])
+                if isinstance(p, dict)
+                and all(isinstance(p.get(k), str) and p[k].strip() for k in ("slug", "headline", "preview", "keyFact"))
+                and isinstance(p.get("matchNumber"), int)
+            ]
             digest["generator"] = f"claude-{model}"
         except Exception as e:
             print(f"  claude call failed ({e}); using rule-based fallback.")
+            digest = None
     if digest is None:
         digest = fallback_digest(schedule, news)
 

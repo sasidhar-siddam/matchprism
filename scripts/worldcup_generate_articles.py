@@ -114,6 +114,34 @@ def call_claude(prompt: str, model: str):
     return json.loads(text)
 
 
+VALID_CATEGORIES = {"Match Preview", "Match Recap", "Analysis"}
+
+
+def validate_article(art) -> str | None:
+    """Return a rejection reason, or None if the article is structurally sound."""
+    if not isinstance(art, dict):
+        return "not an object"
+    for field in ("slug", "title", "dek"):
+        if not isinstance(art.get(field), str) or not art[field].strip():
+            return f"missing/empty '{field}'"
+    if art.get("category") not in VALID_CATEGORIES:
+        return f"bad category {art.get('category')!r}"
+    sections = art.get("sections")
+    if not isinstance(sections, list) or not sections:
+        return "no sections"
+    for s in sections:
+        paras = isinstance(s, dict) and s.get("paragraphs")
+        if not isinstance(paras, list) or not all(isinstance(p, str) and p.strip() for p in paras):
+            return "section without valid paragraphs"
+    if not isinstance(art.get("keyStats", []), list):
+        return "keyStats not a list"
+    art["keyStats"] = [
+        s for s in art.get("keyStats", [])
+        if isinstance(s, dict) and isinstance(s.get("label"), str) and isinstance(s.get("value"), str)
+    ]
+    return None
+
+
 def fetch_commons_image(search_term: str):
     """Best-effort: first usable bitmap on Wikimedia Commons with attribution."""
     params = urllib.parse.urlencode({
@@ -173,6 +201,10 @@ def main():
     now_iso = datetime.now(timezone.utc).isoformat()
     new_articles = []
     for art in result.get("articles", []):
+        reason = validate_article(art)
+        if reason:
+            print(f"  REJECT malformed article ({reason}): {str(art)[:80]}")
+            continue
         slug = re.sub(r"[^a-z0-9-]", "", art.get("slug", "").lower())
         if not slug or slug in existing_slugs:
             print(f"  SKIP duplicate/invalid slug: {art.get('slug')}")

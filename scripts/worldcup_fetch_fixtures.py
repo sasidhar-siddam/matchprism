@@ -54,11 +54,16 @@ def fetch_fixtures():
         return json.loads(resp.read().decode("utf-8"))
 
 
+def clean_team(name: str) -> str:
+    """Feed uses 'To be announced' for unresolved knockout slots."""
+    return "TBD" if name.strip().lower() == "to be announced" else name.strip()
+
+
 def transform(raw):
     matches = []
     for m in raw:
         dt = datetime.strptime(m["DateUtc"], "%Y-%m-%d %H:%M:%SZ").replace(tzinfo=timezone.utc)
-        home, away = m["HomeTeam"], m["AwayTeam"]
+        home, away = clean_team(m["HomeTeam"]), clean_team(m["AwayTeam"])
         played = m["HomeTeamScore"] is not None and m["AwayTeamScore"] is not None
         matches.append({
             "matchNumber": m["MatchNumber"],
@@ -84,7 +89,18 @@ def transform(raw):
 
 def main():
     print(f"Fetching fixtures from {FEED_URL} ...")
-    raw = fetch_fixtures()
+    try:
+        raw = fetch_fixtures()
+        if not isinstance(raw, list) or len(raw) < 50:
+            raise ValueError(f"feed returned {len(raw) if isinstance(raw, list) else 'non-list'} matches, expected 104")
+    except Exception as e:
+        # Never clobber good data with a failed fetch: fixtures are static
+        # after the draw, so the last good schedule.json remains valid
+        # (scores just go stale until the feed recovers).
+        if os.path.exists(OUT_FILE):
+            print(f"WARNING: fetch failed ({e}); keeping existing {OUT_FILE}")
+            return
+        raise
     matches = transform(raw)
     played = sum(1 for m in matches if m["status"] == "played")
     groups = sorted({m["group"] for m in matches if m["group"]})

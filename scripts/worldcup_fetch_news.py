@@ -19,6 +19,7 @@ OUTPUT:
     data/processed/worldcup/news.json
 """
 
+import base64
 import html
 import json
 import os
@@ -60,6 +61,32 @@ def strip_html(text: str) -> str:
     return html.unescape(re.sub(r"<[^>]+>", "", text or "")).strip()
 
 
+def resolve_gnews_url(url: str) -> str:
+    """
+    Google News RSS wraps article links as news.google.com/rss/articles/<token>.
+    For the common CBMi-style tokens the publisher URL is embedded in the
+    base64 payload — decode it offline (no network). Newer token formats
+    don't embed the URL; those keep the wrapper, which still redirects fine.
+    """
+    m = re.search(r"news\.google\.com/rss/articles/([^?/]+)", url)
+    if not m:
+        return url
+    token = m.group(1)
+    try:
+        raw = base64.urlsafe_b64decode(token + "=" * (-len(token) % 4))
+        candidates = re.findall(rb"https?://[\x21-\x7e]+", raw)
+        for c in candidates:
+            decoded = c.decode("ascii", errors="ignore")
+            # Embedded URLs end where protobuf framing resumes; trim trailing
+            # non-URL bytes conservatively
+            decoded = re.split(r"[\x00-\x20\"'<>\\^`{|}]", decoded)[0].rstrip("\\")
+            if "google.com" not in decoded and len(decoded) > 12:
+                return decoded
+    except Exception:
+        pass
+    return url
+
+
 def parse_rss(xml_text: str, source_name: str):
     """Parse RSS 2.0 items with stdlib ElementTree. Tolerant of bad items."""
     items = []
@@ -72,13 +99,15 @@ def parse_rss(xml_text: str, source_name: str):
         link = (item.findtext("link") or "").strip()
         if not title or not link:
             continue
-        # Google News appends " - Publisher" to titles and nests real source
+        # Google News appends " - Publisher" to titles, nests the real source,
+        # and wraps links in a redirect URL we can usually decode offline
         source = source_name
         if source_name == "Google News":
             nested = item.find("source")
             if nested is not None and (nested.text or "").strip():
                 source = nested.text.strip()
             title = re.sub(r"\s+-\s+[^-]+$", "", title)
+            link = resolve_gnews_url(link)
         published = None
         pub_date = item.findtext("pubDate")
         if pub_date:

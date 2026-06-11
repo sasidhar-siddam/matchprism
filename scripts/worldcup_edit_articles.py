@@ -69,6 +69,9 @@ def build_prompt(articles, news, schedule):
         "Apply every check from the editor guide. Respond with ONLY JSON, no fences:",
         '{"articles": [same schema as supplied, corrected, each with an added "editLog": ["short change note", ...]]}',
         "Return ALL supplied articles in the same order, edited or not.",
+        'If an article\'s "imageInfo" describes a photo clearly unrelated to its subject',
+        '(wrong stadium, wrong team, wrong topic), add "dropImage": true to that article',
+        "and note it in editLog. Omit imageInfo from your response.",
     ]
     return "\n".join(lines)
 
@@ -107,12 +110,19 @@ def main():
         print("All recent articles already edited — nothing to do (0 claude calls).")
         return
 
-    # Strip bulky fields the editor doesn't need; restore after
+    # Strip bulky fields the editor doesn't need; restore after.
+    # The photo itself stays out, but a one-line description goes in so the
+    # editor can veto a clearly unrelated image (dropImage: true).
     slim = []
     held_back = {}
     for a in candidates:
         held_back[a["slug"]] = {k: a.get(k) for k in ("image", "sources", "publishedAt", "generator", "editedAt")}
-        slim.append({k: v for k, v in a.items() if k not in held_back[a["slug"]]})
+        s = {k: v for k, v in a.items() if k not in held_back[a["slug"]]}
+        img = a.get("image")
+        if img:
+            filename = img["url"].rsplit("/", 1)[-1]
+            s["imageInfo"] = f"attached photo: {filename} (by {img.get('attribution', '?')})"
+        slim.append(s)
 
     prompt = build_prompt(slim, news, schedule)
     print(f"Editing {len(slim)} article(s) via claude -p (model={model}, ~{len(prompt)} chars, 1 call) ...")
@@ -124,7 +134,11 @@ def main():
         slug = art.get("slug")
         if slug not in held_back:
             continue
+        art.pop("imageInfo", None)
+        drop_image = art.pop("dropImage", False)
         restored = {**art, **{k: v for k, v in held_back[slug].items() if v is not None}}
+        if drop_image:
+            restored["image"] = None
         restored["editedAt"] = now_iso
         restored["editLog"] = art.get("editLog", [])
         edited_by_slug[slug] = restored
