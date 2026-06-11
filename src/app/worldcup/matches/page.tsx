@@ -89,8 +89,8 @@ export default function WorldCupMatchesPage() {
           World Cup 2026 Fixtures
         </h1>
         <p className="text-secondary text-sm mt-1">
-          {schedule.totalMatches} matches &middot; {schedule.playedMatches} played &middot;
-          16 host cities across USA, Mexico and Canada
+          {schedule.totalMatches} matches &middot; {schedule.playedMatches}{" "}
+          played &middot; 16 host cities across USA, Mexico and Canada
         </p>
       </header>
 
